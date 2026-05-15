@@ -1,0 +1,1270 @@
+[
+{
+"url": "lessons/ch-01-triads/",
+"title": "Triads — the four basic chord flavors",
+"chapter_title": "Chord Construction",
+"summary": "Major, minor, diminished, augmented — the four three-note chord shapes that everything else is built from.",
+"body": "What a triad is A triad is a three-note chord built by stacking two thirds on top of each other. There are exactly four kinds, depending on what kind of thirds you stack. If “stacking thirds” feels abstract, say it this way first: choose a starting note, skip one scale note to find the 3rd, then skip one more scale note to find the 5th. In C major, start on C, skip D, take E, skip F, take G. That gives C E G. Triad Stack Intervals from root Example (in C) Major M3 + m3 1 — 3 — 5 C E G Minor m3 + M3 1 — ♭3 — 5 C E♭ G Diminished m3 + m3 1 — ♭3 — ♭5 C E♭ G♭ Augmented M3 + M3 1 — 3 — ♯5 C E G♯ Visualised as a stack of intervals: 1 C root 3 E + M3 5 G + m3 That’s a C major chord. Stack of two thirds. Done. Hearing the four flavors Major = bright, resolved, happy. Minor = sad, melancholy. Diminished = unstable, tense, “creepy”. Augmented = ambiguous, dreamy, suspended. Play each one on a single string set (root on the 5th string, others on the 4th and 3rd) and listen. The difference between major and minor is one note — the 3rd, moved by one fret. That single note is what makes a chord “happy” or “sad”. Build a triad from any note To build a major triad on G : Root = G . Major 3rd above ",
+"keywords": [
+"triads",
+"the",
+"four",
+"basic",
+"chord",
+"flavors"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/ch-02-seventh-chords/",
+"title": "Seventh chords — adding the 7th",
+"chapter_title": "Chord Construction",
+"summary": "Stack one more third on a triad and you get a 7th chord. The basis of jazz, soul, and modern pop harmony.",
+"body": "What a 7th chord is A seventh chord is a triad with one more third stacked on top. The new note is some kind of 7th (major, minor, or diminished) from the root. Five common 7th-chord types: Name Spelling Intervals Example (C root) Major 7th maj7 / Δ7 1 3 5 7 C E G B Minor 7th m7 1 ♭3 5 ♭7 C E♭ G B♭ Dominant 7th 7 / dom7 1 3 5 ♭7 C E G B♭ Minor 7♭5 (half-dim) m7♭5 / ø 1 ♭3 ♭5 ♭7 C E♭ G♭ B♭ Diminished 7th dim7 / °7 1 ♭3 ♭5 ♭♭7 C E♭ G♭ B♭♭ The dominant 7th is the most important one in tonal music — its mix of a major triad with a minor 7th creates the strongest “wants to resolve” feel in Western harmony. The sound of each maj7 : dreamy, lush, slightly tense. Sounds like jazz or movie-soundtrack peace. m7 : smooth, mellow. The default sophisticated minor chord. dom7 : bluesy, unresolved, urgent. The pivot point of nearly every blues, jazz, and many pop songs. m7♭5 : dark and uncertain. Used in minor key ii-V’s and in moments of moody transition. dim7 : extremely tense, all stacked minor thirds. A passing chord used to slide between two other chords. Building them on the guitar The “root on 6th string” voicings for an A root: Chord 6 5 4 3 2 1 Amaj7 5 7 6 6 – – Am7 5 7 5 5 – – A7 5 7 5 ",
+"keywords": [
+"seventh",
+"chords",
+"adding",
+"the"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/ch-03-extensions/",
+"title": "Extensions — 9ths, 11ths, 13ths",
+"chapter_title": "Chord Construction",
+"summary": "Keep stacking thirds and you get extended chords. The flavor of jazz, fusion, neo-soul, and modern R&B.",
+"body": "Why “9” and not “2”? When a chord extends past the octave, we keep counting numbers: 8 (octave), 9, 11, 13. The 9th is the same letter as the 2nd, but stacked an octave above the 7th. Similarly: 11 = same letter as 4, 13 = same letter as 6. A “C9” chord includes the 7th (B♭ for a dominant) and the 9th (D). A “Cadd9” includes the 9th but not the 7th. The difference matters. The common extended chords Chord Includes In C 9 1 3 5 ♭7 9 C E G B♭ D maj9 1 3 5 7 9 C E G B D m9 1 ♭3 5 ♭7 9 C E♭ G B♭ D 11 (rare) 1 3 5 ♭7 9 11 C E G B♭ D F 13 1 3 5 ♭7 9 13 (often skip 11) C E G B♭ D A maj13 1 3 5 7 9 13 C E G B D A m13 1 ♭3 5 ♭7 9 13 C E♭ G B♭ D A add9 / add2 1 3 5 9 (no 7th) C E G D 6 1 3 5 6 C E G A 6/9 1 3 5 6 9 C E G A D Why we drop notes on guitar You only have 6 strings (and usually only 4 fingers free to fret). Real-world voicings of, say, a C13 chord pick the most important notes: the root or 7th, the 3rd, and the highest extension (the 13). Rule of thumb for “essential” notes: Root (or assume the bass plays it) 3rd — defines major/minor. 7th — defines dominant vs major-7th flavor. Highest extension (9, 11, or 13) — the “colour”. A real C13 guitar voicing might be just: root, 3, ♭7, ",
+"keywords": [
+"extensions",
+"ths",
+"ths",
+"ths"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/ch-04-inversions/",
+"title": "Inversions — same chord, different bass",
+"chapter_title": "Chord Construction",
+"summary": "Move a chord's bass note up and you get an inversion. The secret to smooth bass lines and pro-sounding progressions.",
+"body": "What an inversion is A triad has three notes: 1, 3, 5. Normally the 1 (root) is on the bottom. That’s called root position . If you put the 3 on the bottom instead, you get first inversion (notated “C/E” — “C chord with E in the bass”). If you put the 5 on the bottom, you get second inversion (“C/G”). A 7th chord has one more inversion (“third inversion” with the 7 in the bass — written like “C7/B♭”). Same notes, different feel A root-position C is C E G — solid, finished. A first-inversion C is E G C — bright, off-balance, leaning forward. A second-inversion C is G C E — anchored on the 5, sometimes used as a “passing” chord on the way to another. The chord function doesn’t change — it’s still “the I chord in C major”. But the bass motion between chords can become hugely smoother when you choose inversions cleverly. A worked example — descending bass line Compare these two progressions in C: Without inversions : C → Am → F → G → C bass: C → A → F → G → C (jumps around) With inversions (a “C / B / Am / G / F …” bassline): C → G/B → Am → C/G → F → C/E → Dm → G → C bass: C → B → A → G → F → E → D → G → C (stepwise descending — beautiful) Same chord qualities , totally different feel.",
+"keywords": [
+"inversions",
+"same",
+"chord",
+"different",
+"bass"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/ch-05-harmonised-major-scale/",
+"title": "The harmonised major scale",
+"chapter_title": "Chord Construction",
+"summary": "Stack thirds on every note of a major scale and you get the seven chords every pop song uses.",
+"body": "The pattern Take any major scale. Build a triad on each scale degree using only notes from that scale . The result is the harmonised major scale — the source of nearly every chord progression you’ve ever heard. In C major (C D E F G A B), build a triad on each note: Degree Triad notes Chord Quality Roman 1 C E G C major I 2 D F A Dm minor ii 3 E G B Em minor iii 4 F A C F major IV 5 G B D G major V 6 A C E Am minor vi 7 B D F B° diminished vii° This pattern of qualities — Major - minor - minor - Major - Major - minor - diminished — is the same in every major key. Memorise this pattern. It’s the most important fact in functional harmony. Why the qualities turn out this way You only used notes from the major scale. When you stack two thirds on the 1, you happen to land on intervals of M3 + m3 — that’s a major triad. Stack on the 2 and you get m3 + M3 — that’s minor. And so on. The pattern emerges from the scale’s whole-/half-step structure. The harmonised minor scale Apply the same idea to a natural minor scale and you get a different pattern: Degree Quality Roman 1 minor i 2 diminished ii° 3 major ♭III 4 minor iv 5 minor v 6 major ♭VI 7 major ♭VII Most minor-key pop and rock uses ha",
+"keywords": [
+"the",
+"harmonised",
+"major",
+"scale"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/fb-01-anchor-notes/",
+"title": "The anchor notes you must know cold",
+"chapter_title": "Fretboard Mastery",
+"summary": "A small set of fretboard reference points unlocks the rest of the neck. Learn these 12 anchors and you'll never feel lost again.",
+"body": "The 12 anchors You don’t need to memorise all 144 notes on a guitar fretboard. You only need to memorise these twelve anchor positions — they’re the natural notes (no sharps or flats) on the low E and A strings up to fret 12. String Fret Note E (6) 0 E E (6) 1 F E (6) 3 G E (6) 5 A E (6) 7 B E (6) 8 C E (6) 10 D E (6) 12 E A (5) 0 A A (5) 2 B A (5) 3 C A (5) 5 D A (5) 7 E A (5) 8 F A (5) 10 G A (5) 12 A Once these two strings are second nature, you can find any note on the neck because: The D string is one octave above the A string at the equivalent location? No — D string and A string are different notes. But — every note you find on the low E or A string has predictable octave shapes around it (next lesson). Most chord roots and barre-chord positions live on the low E or A string. Just naming them gives you the key of any chord shape you play. Pattern recognition Notice the spacing pattern on each string — it’s the same pattern, just shifted: E: E . F . G . A . B C . D . E A: A . B C . D . E F . G . A Two gaps where there’s no “sharp/flat” between letters: E–F and B–C . Memorise where these “no gap” pairs sit on the neck and the rest falls into place. Daily drill (3 minutes) Call",
+"keywords": [
+"the",
+"anchor",
+"notes",
+"you",
+"must",
+"know",
+"cold"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/fb-02-octave-shapes/",
+"title": "Octave shapes — connect the whole neck",
+"chapter_title": "Fretboard Mastery",
+"summary": "Four shapes for finding the same note in higher and lower octaves. Memorise these and the fretboard becomes a single map.",
+"body": "The four useful shapes Use these to jump from any known note to the same note in another octave. Shape A — “2 strings up, 2 frets right” Use when both strings are below the B string (i.e. between the E↔D, A↔G). o . . . (target) . . . . . . . . x . . . (start) Example: start on fret 5 of the low E (A) . Target = fret 7 of the D string = A, one octave up. Shape B — “2 strings up, 3 frets right” Use when crossing the B string (between G↔B, or D↔high E). o . . . . (target) . . . . . . . . . . x . . . . (start) Example: start on fret 5 of the D string (G) . Target = fret 8 of the B string = G, one octave up. Shape C — “3 strings up, 2 frets back” Same octave, different string set. Useful for instantly finding the unison. Shape D — “1 string up, 7 frets right” Slower but useful: same note one octave up by sliding within close range. Mapping a single note Let’s map every A on the fretboard. Start with the open A string. From there: Fret 12, A string — one octave up. Fret 5, low E string — same A as open A string. Fret 7, D string — A, octave above open A. Fret 2, G string — A, same octave as fret 7 D. Fret 10, B string — A, octave above fret 2 G. Fret 5, high E string — A, two octaves abo",
+"keywords": [
+"octave",
+"shapes",
+"connect",
+"the",
+"whole",
+"neck"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/fb-03-natural-note-map/",
+"title": "The natural-note neck map",
+"chapter_title": "Fretboard Mastery",
+"summary": "A single picture you should be able to draw from memory: every A, B, C, D, E, F, G across the first 12 frets.",
+"body": "The “white-key” view If a piano has 7 white keys per octave (the natural notes), the guitar has the same 7 notes — they just sit in 144 different places. Mapping where the naturals land tells you where every sharp/flat lives, because the sharps fill the gaps. The seven naturals · 0–12 frets Look at the shape. Notice: The two clusters of close pairs — E/F and B/C are always exactly one fret apart, with no sharp in between. The diagonal lines going up the neck — each diagonal is a single note recurring across strings. The double-pattern at fret 12 — the open-string layout repeats one octave up. A practical exercise: the “scribble drill” Get a blank guitar-neck diagram (or sketch one on paper — 6 lines, 12 vertical divisions). Without looking at anything else, fill in every A on the diagram. Check. Now every C. Check. Now every G. Check. Then E, then F, then D, then B. Do this once a week for a month. Each pass gets faster. After four weeks you’ll never need to look anything up again. The “one note per string” exercise A pre-warm-up that costs 60 seconds: Pick a note for the day. Say, D . Find D on each string, going low to high: fret 10 (low E), fret 5 (A), open (D), fret 7 (G), fret",
+"keywords": [
+"the",
+"natural",
+"note",
+"neck",
+"map"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/fb-04-string-by-string/",
+"title": "String-by-string memorisation drill",
+"chapter_title": "Fretboard Mastery",
+"summary": "A specific 10-minute daily routine that gives you full fretboard recall within a few weeks.",
+"body": "The drill It’s not glamorous, but it works. Set a timer for 10 minutes: Minute 1 — low E string. Play every note from open to fret 12 in order, calling out names: “E, F, F♯, G, G♯, A, A♯, B, C, C♯, D, D♯, E.” Minute 2 — A string. Same, starting on A. Minute 3 — D string. Same. Minute 4 — G string. Same. Minute 5 — B string. Same. Minute 6 — high E string. Same. Minute 7 — random one-note-per-string. Pick a target note from a hat (or random number generator). Find it on every string in turn. Repeat with a new note. Minute 8 — backwards. Play fret 12 down to open on a chosen string, naming notes. Minute 9 — natural notes only. Find only A, B, C, D, E, F, G in order, ignoring sharps. (Notice the half-step gaps.) Minute 10 — chord-root call. Open a chord chart. Read the root only. Find it on the low E and A strings within 2 seconds. After 14 days, drop to 5 minutes. After a month, you can move on — but keep the random one-note-per-string drill forever, it never stops being useful. Sneaky shortcuts The note at fret X on one string is always 5 frets higher than the same note on the next thicker string (except G→B which is 4 frets higher). All notes at fret 5 across all strings (except B)",
+"keywords": [
+"string",
+"string",
+"memorisation",
+"drill"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/gs-01-what-is-theory/",
+"title": "What music theory is (and isn't)",
+"chapter_title": "Getting Started",
+"summary": "A short, honest definition of music theory and why it makes you a better guitarist.",
+"body": "A simple working definition Music theory is the vocabulary we use to describe sounds we already make. Theory does not invent music. Music came first. Theory came later — composers and teachers noticing patterns and giving them names so they could talk about them, teach them, and reuse them. That’s why the rules of theory sometimes “break”. The rules are descriptions, not laws. A great composer doesn’t follow the rules; they understand them well enough to bend them on purpose. What theory actually gives you as a guitarist Concrete, practical superpowers: Find any note instantly on the fretboard, in any key. Improvise solos that fit the song you’re playing over — not just the same pentatonic box. Write chord progressions that feel finished, sad, hopeful, jazzy, or epic on demand. Transcribe songs by ear because you can recognise the intervals and chords. Communicate with other musicians. “Try a flat-VI” is faster than “uh, that brown-sounding chord”. Compose full songs — verses, choruses, bridges, and key changes — instead of looping a riff for four minutes. What theory is not Not a substitute for ears. Theory tells you what’s likely to work. Your ear tells you what actually works. N",
+"keywords": [
+"what",
+"music",
+"theory",
+"and",
+"isn"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/gs-02-musical-alphabet/",
+"title": "The musical alphabet & half-steps",
+"chapter_title": "Getting Started",
+"summary": "Music uses only 12 notes. Learn their names, why some have sharps and flats, and how they sit on the guitar.",
+"body": "Twelve notes, on repeat Western music uses twelve notes . After the twelfth, the pattern repeats one octave higher. That’s the entire palette. The notes have names that recycle the first seven letters of the alphabet: A A♯/B♭ B C C♯/D♭ D D♯/E♭ E F F♯/G♭ G G♯/A♭ (then A again) A few important details: There is no E♯ and no B♯. The distance from E to F is already small; same with B to C. Those two pairs sit next to each other with nothing between. Every other pair has a “black-key” note in between , named with either a sharp (♯) or flat (♭) — they’re the same pitch, different names depending on the key. That’s it. Twelve notes. Memorise the sequence. Plain-language version Think of the notes like a circular alphabet. After G, the letters start again at A. Sharps and flats are the in-between notes. The guitar makes this easier because every fret moves one space around the circle. Half-steps and whole-steps The smallest distance in Western music is a half-step (also called a semitone ). On the guitar, that’s one fret . A whole-step ( tone ) is two half-steps — two frets. Half-step R +1 Whole-step R +2 Click a row to see the steps animate. On the fretboard The fretboard is a perfectly l",
+"keywords": [
+"the",
+"musical",
+"alphabet",
+"half",
+"steps"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/gs-03-fretboard-anatomy/",
+"title": "Fretboard anatomy & standard tuning",
+"chapter_title": "Getting Started",
+"summary": "Strings, frets, the nut, dot inlays — and the standard tuning that makes the guitar's logic work.",
+"body": "The pieces Looking at your guitar held in playing position: The nut is the white strip at the headstock end of the fretboard. Notes played on an “open” string are notes at the nut, before any fret. Frets are the metal bars dividing the neck. We refer to spaces between frets by the higher number — “play fret 3” means in the space between frets 2 and 3. Inlay dots mark frets 3, 5, 7, 9, and a double dot at 12 (the octave). They exist purely so your eyes can find your way. Every guitar uses these. Strings are numbered 1 to 6 , where 1 is the thinnest (highest pitch) and 6 is the thickest (lowest pitch) . Yes, this feels backwards. You’ll get used to it. Standard tuning The six strings, from thickest (6th) to thinnest (1st), are tuned: 6 (low E) E — the lowest, thickest string 5 (A) A — five semitones above low E 4 (D) D — a fourth above A 3 (G) G — a fourth above D 2 (B) B — a third above G (the odd one) 1 (high E) E — a fourth above B, two octaves above the low E Five of the six gaps are a perfect fourth (5 frets). The one exception is between the G and B strings, where it’s a major third (4 frets). This is why some shapes look different on those two strings — we’ll come back to that",
+"keywords": [
+"fretboard",
+"anatomy",
+"standard",
+"tuning"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/gs-04-octaves-and-pitch/",
+"title": "Octaves & how pitch works",
+"chapter_title": "Getting Started",
+"summary": "What an octave really is, why two notes one octave apart sound \"the same\", and the octave shapes that map the whole fretboard.",
+"body": "What an octave is Pluck the open A string. Then press fret 12 on the same string and pluck again. The pitch is higher, but the note is the same — both are “A”. The second is exactly one octave higher than the first. Physically, an octave is a 2× frequency ratio . If the first A vibrates at 110 Hz, the second is at 220 Hz. Our brains hear this 2:1 ratio as “the same note, but brighter”. This is why music recycles only 12 note names. Higher and lower versions of the same note are functionally equivalent — you can substitute one for the other and the chord or melody still works. Octaves on the guitar There are several easy shapes for finding the same note higher on the neck. The most useful two: Shape 1 — “down 2 strings, up 2 frets” (works between the 6→4 and 5→3 strings) Press fret 5 on the low E string (= A). Now find fret 7 on the D string. That’s also A — one octave higher. Shape 2 — “down 2 strings, up 3 frets” (use when one of the strings is the B string, because of that major-third gap) Press fret 5 on the D string (= G). Now find fret 8 on the B string. That’s also G — one octave higher. Every A on the neck Every dot above is an A. Once you can leap between any two of them, y",
+"keywords": [
+"octaves",
+"how",
+"pitch",
+"works"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/gs-05-key-introduction/",
+"title": "What is a \"key\"?",
+"chapter_title": "Getting Started",
+"summary": "A working definition of \"key\" before we dive into scales and chords — the most useful idea in music.",
+"body": "A “key” is a home Most songs have a note that feels like home base . When a melody lands on that note, the phrase feels complete. When it lands somewhere else, the phrase feels like it wants to continue. That home note is called the tonic , and the key is named after it. “This song is in A minor” means: the home note is A, and the song mostly uses notes from the A minor scale. That’s the only definition you need right now. We’ll fill in the details over the next several chapters. A simple experiment Open the fretboard below and click the R (root). Then click any other note. Now click R again. Did you hear how clicking R “resolved” — like the music finally exhaled? That feeling of resolution is what “being in a key” gives you. It’s the gravity that pulls melody and harmony around. A natural minor · scale degrees ▶ Play degrees Toggle labels The number on each dot is its scale degree — its position in the scale starting from the tonic. The 1 is home. The 5 wants to come home. The 7 really wants to come home (especially in major). These pulls are what we call “function” and they’re the engine of harmony. Why this matters Improvisation: when you know what key a song is in, you immediat",
+"keywords": [
+"what",
+"key"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/hv-01-voice-leading-basics/",
+"title": "Voice leading basics",
+"chapter_title": "Harmony & Voice Leading",
+"summary": "The principle that turns clunky chord transitions into smooth, professional-sounding harmony.",
+"body": "What voice leading is Imagine each note in a chord is a different singer in a choir. When the chord changes, each singer has to move to a new note . Voice leading is the art of choosing those movements so each singer’s line is smooth, mostly stepwise, and easy to sing. The single rule: Each voice should move as little as possible to the next chord — preferably by a half- or whole-step, or not at all. When voice leading is good, chord changes sound inevitable . When it’s bad, the music sounds like chord shapes thrown together. A worked example Compare two ways of playing C → F : Bad voice leading — all voices jump: C: C E G → F: F A C bass jumps up a fourth; middle jumps up a third; top jumps up a fourth Every note moves. Three big leaps. Sounds clunky. Good voice leading — minimal motion: C: C E G → F/C: C F A bass stays on C; middle moves E → F (half-step); top moves G → A (whole-step) Two small steps, one shared note. The bass kept the C (now as a “5 in the bass” of F, i.e. F/C — second inversion of F). Smooth. The chord function didn’t change. The audience still hears IV after I. But the voice leading is now elegant. On guitar specifically A guitarist can’t easily move individua",
+"keywords": [
+"voice",
+"leading",
+"basics"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/hv-02-drop-voicings/",
+"title": "Drop voicings on guitar",
+"chapter_title": "Harmony & Voice Leading",
+"summary": "How jazz guitarists get those rich, wide-spaced chords. Drop-2 and drop-3 voicings unlock real harmonic colour.",
+"body": "The problem with “close” voicings A close voicing has all four chord notes packed within one octave. On guitar this is awkward — your hand can’t easily span the necessary frets. Drop voicings spread the chord out by dropping one of the inner voices down an octave. The most useful are drop-2 and drop-3 . Drop-2 Take a close-voiced 7th chord — for Cmaj7 in close voicing (top down): B, G, E, C . The 2nd voice from the top is G. Drop it an octave: result is B, E, C, G (top to bottom). Reorder bottom-to-top: G, C, E, B . This sits beautifully on guitar strings 4-3-2-1 (or 5-4-3-2). For Cmaj7 drop-2 on strings 4-3-2-1: String 1 (high E): fret 7 (B) String 2 (B): fret 5 (E) String 3 (G): fret 5 (C) String 4 (D): fret 5 (G) (All on fret 5–7, easy to grab.) Drop-3 Drop the 3rd voice from the top an octave. For Cmaj7 in close voicing (B, G, E, C top-down): 3rd voice from top = E. Drop it: B, G, C, E top-down. Reorder bottom-to-top: E, C, G, B . This needs a string skip on guitar (root on a lower string with a gap between root and the rest). For Cmaj7 drop-3 with root on the 5th string: String 1: X (mute) String 2: fret 5 (E) ← bottom-up: E String 3: fret 4 (B) String 4: fret 5 (G) String 5: ",
+"keywords": [
+"drop",
+"voicings",
+"guitar"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/hv-03-smooth-progressions/",
+"title": "Smooth chord progressions on guitar",
+"chapter_title": "Harmony & Voice Leading",
+"summary": "Practical voicing choices that turn any progression from clunky to silky.",
+"body": "The “Beatles trick” — keep one finger When you change between two chords, keep at least one finger anchored . This forces you to choose voicings that share a note and immediately creates smooth voice leading. Classic examples: C → Am7 : keep the C note on string 2, fret 1 anchored. Your other fingers move. G → Cadd9 → Em7 → D : keep your pinky on fret 3 of the high E string the whole time. The fingering moves under it. (This is exactly what’s happening on most acoustic-guitar pop songs.) D → Dsus2 → Dsus4 → D : keep the D shape; lift / replace one finger. This habit alone — “what stays?” — improves your playing immediately. A model open-position progression Cycle through: C - G/B - Am - C/G - F - C/E - Dm - G7 - C . The bass descends step by step: C - B - A - G - F - E - D - G - C. Same chord functions as before, but the bass is now a smooth scale. Try it. It’s the basis of “Streets of London”, “While My Guitar Gently Weeps”, “Imagine”. Top note as melody Choose your voicings so the top notes of the chords form a satisfying melodic line. For a I-vi-IV-V in C, default top notes might be: - C (top = E or G or C) - Am (top = E, A, or C) - F (top = F, A, or C) - G (top = G, B, or D) A ",
+"keywords": [
+"smooth",
+"chord",
+"progressions",
+"guitar"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/im-01-target-and-approach/",
+"title": "Target notes and approach notes",
+"chapter_title": "Improvisation & Solo Building",
+"summary": "The single most useful technique in improvisation — choosing where to land and how to get there.",
+"body": "Pick a target. Approach it. Land. The pro improviser’s mental loop, four words long: Pick a target. Approach it. Land. A target note is a strong chord tone of the current chord — usually the 3rd or 7th (the notes that most clearly define the chord’s quality). An approach is the way you arrive — usually by a half-step or whole-step from above or below. This is how bebop players construct their solos in real time. Plain-language version Imagine speaking. You do not say every possible word as fast as possible. You choose an important word, lead into it, and pause. A good solo works the same way: choose an important note, move toward it, land clearly, then leave space. Approach types Approach Example (targeting C) Sound Diatonic above D → C Smooth, in-key Diatonic below B → C Strong (leading-tone pull) Chromatic above C♯ → C Edgy, bluesy Chromatic below B → C (same as leading) Strong Enclosure D - B - C Bebop staple Double chromatic B - C♯ - C? Or D - C♯ - C More tension before resolving The enclosure (also called “surround”) is the bebop trademark: surround the target from above and below before landing. It works because it builds maximum suspense before resolving. A worked example Yo",
+"keywords": [
+"target",
+"notes",
+"and",
+"approach",
+"notes"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/im-02-motifs-in-solos/",
+"title": "Building solos from motifs",
+"chapter_title": "Improvisation & Solo Building",
+"summary": "The structure great solos have — small ideas developed across a chorus. Stop running scales; start telling a story.",
+"body": "A solo is a melody Everything from Melody Writing applies to soloing — except you’re inventing the melody in real time over a fixed chord progression. A solo is a melody you compose on the spot. That means: motifs, repetition, sequence, development. The same principles. Just faster. The “call and response” structure The skeleton of a great solo: Phrase A (call) — short, simple, memorable. 2 bars. Phrase B (response) — answers A. Higher, longer, or with a twist. 2 bars. Phrase A’ (variation of A) — same idea, different placement. 2 bars. Phrase B’ (variation of B) — different ending, leading into the next chorus. 2 bars. That’s 8 bars — half a 16-bar chorus. The other half does the same thing with new material. The result: a solo that feels organised rather than random. Listen to any B.B. King solo. The structure is almost always call-and-response — sometimes with the band literally responding between his phrases. Stevie Ray Vaughan, John Mayer, David Gilmour, Carlos Santana — all share this discipline. The most powerful trick: repeat yourself If you play one phrase and it sounds good, play it again . Beginner soloists never repeat anything; pros repeat constantly. Repetition create",
+"keywords": [
+"building",
+"solos",
+"from",
+"motifs"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/im-03-outside-playing/",
+"title": "Going \"outside\" — and coming back",
+"chapter_title": "Improvisation & Solo Building",
+"summary": "How to play notes outside the key, on purpose, and resolve them so they sound like brilliance instead of mistakes.",
+"body": "What “outside” means In jazz and fusion, outside describes notes or scales that don’t belong to the current chord. They create tension. Used well, they sound sophisticated and modern. Used poorly, they sound like wrong notes. The single rule: Outside notes are only as good as their resolution. Play any note. As long as you resolve it back to a chord tone within a beat or two, it works. The brain forgives anything if it returns home. Simple outside techniques 1. Side-slipping Play a phrase a half-step up or down from where you should be, then move back. So if the chord is G7 and you’d normally use G Mixolydian, play a fragment of A♭ Mixolydian instead, then return. Example over G7: a phrase in G Mixolydian → same phrase shifted up a half-step (A♭) → back to G Mixolydian. 2. Chromatic enclosures Surround a target chord tone with chromatic notes from both above and below. Already mentioned in Target & Approach , but worth stressing: chromatic notes are always on the way to a target. They never sit still. 3. Triadic superimposition Play a triad whose notes are all “outside” but whose contour is clean. For example, over a C major chord, play a B major triad (B D♯ F♯) as a fast arpeggio.",
+"keywords": [
+"going",
+"outside",
+"and",
+"coming",
+"back"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/iv-01-what-is-interval/",
+"title": "What an interval is",
+"chapter_title": "Intervals — The Building Blocks",
+"summary": "The exact, unambiguous definition of an interval — measured in half-steps, named by quality and number.",
+"body": "Distance, with a name An interval is the distance between two notes, measured in half-steps. Each distance has a name made of two parts: Quality : major, minor, perfect, augmented, or diminished. Number : 2nd, 3rd, 4th, 5th, 6th, 7th, octave (and beyond). You read it like “major third” or “perfect fifth”. The number comes from counting letter names; the quality comes from the exact half-step count. Plain-language version Do not worry about memorising every name immediately. First, hear the idea: play a note, move a few frets, and listen to how the second note feels against the first. That feeling is the interval. Half-steps Name Shorthand 0 Unison / Perfect 1st P1 1 Minor 2nd m2 2 Major 2nd M2 3 Minor 3rd m3 4 Major 3rd M3 5 Perfect 4th P4 6 Tritone / Augmented 4th / Diminished 5th TT / ♭5 7 Perfect 5th P5 8 Minor 6th m6 9 Major 6th M6 10 Minor 7th m7 11 Major 7th M7 12 Perfect Octave P8 Memorise this table. It is the periodic table of music. Beginner shortcut For now, focus on these first: m2 is 1 fret, M2 is 2 frets, m3 is 3 frets, M3 is 4 frets, P4 is 5 frets, and P5 is 7 frets. These cover most beginner chord and scale work. Counting on the fretboard On a single string: one fre",
+"keywords": [
+"what",
+"interval"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/iv-02-major-minor-perfect/",
+"title": "Major, minor, perfect — what the qualities mean",
+"chapter_title": "Intervals — The Building Blocks",
+"summary": "Why some intervals are \"major/minor\" and others are \"perfect\" — and the simple rule that decides which.",
+"body": "The qualities There are five interval qualities: Perfect (P) — unison, 4th, 5th, octave. These sound stable and consonant. There’s no “major” or “minor” version — there’s only the perfect version. Major (M) — 2nd, 3rd, 6th, 7th in their “bright” form. These are the default in a major scale. Minor (m) — those same numbers (2nd, 3rd, 6th, 7th) but one half-step smaller . These are darker, mournful, mysterious. Augmented (A) — any interval raised one half-step from its perfect or major form. Often spelled with a ♯. Diminished (dim, °) — any interval lowered one half-step from its perfect or minor form. Often spelled with a ♭. So a “minor 3rd” (3 half-steps) is one semitone smaller than a “major 3rd” (4 half-steps). Same letter count, different quality. Why 4ths, 5ths, octaves are “perfect” The perfect 4th, 5th, and octave have the simplest frequency ratios (4:3, 3:2, 2:1) and historically were considered the only “perfectly consonant” intervals. You don’t need to call them anything other than “perfect” — that’s just their name. The cheat-sheet you’ll actually use When someone says “play a third” , they almost always mean a major or minor third — context (the key/scale) decides which. ",
+"keywords": [
+"major",
+"minor",
+"perfect",
+"what",
+"the",
+"qualities",
+"mean"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/iv-03-interval-shapes-fretboard/",
+"title": "Every interval as a shape on the fretboard",
+"chapter_title": "Intervals — The Building Blocks",
+"summary": "Each interval has 2–3 consistent visual shapes on the guitar. Learn them once and you'll see intervals everywhere.",
+"body": "Two ways to play any interval You can play an interval on one string (count frets) or across two strings (a shape). On guitar, shapes are faster — you can grab them without thinking. Here are the most useful shapes for each interval, with the root on the low E string and the second note within reach. Minor 2nd (1 fret) . . . . . . . . . . . . . . . . . . . . R N . . R = root, N = next note (1 fret right) Major 2nd (2 frets) Same string, two frets up. Or: same string, but on the guitar this small gap stays on one string. Minor 3rd (3 frets — but easier as a shape) . . . N (one string up, one fret back) . . . . . . . . . . . . . . . . R . . . Reverse the orientation: root on low E, m3 is “up one string, back one fret” — except when crossing the G→B string boundary (add a fret). Major 3rd (4 frets) . . N . (one string up, on the same fret as root) . . . . . . . . . . . . . . . . R . . . Perfect 4th (5 frets) N . . . (one string up, same fret) . . . . . . . . . . . . . . . . R . . . This is the easiest, most-used interval shape — and it’s the relationship between most adjacent string pairs in standard tuning. Tritone (6 frets) and Perfect 5th (7 frets) . N . . . . N . . . . . . . . . .",
+"keywords": [
+"every",
+"interval",
+"shape",
+"the",
+"fretboard"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/iv-04-ear-training/",
+"title": "Ear training — recognising intervals",
+"chapter_title": "Intervals — The Building Blocks",
+"summary": "The skill that lets you transcribe songs by ear. A simple, sustainable routine to internalise every interval.",
+"body": "Why ear training matters If theory gives you names for what you hear, ear training gives you the hearing itself. Most guitarists never train their ears past “I can tell major from minor”. A little bit of structured listening goes a long way. The reference-song method For each interval, pin it to a song’s opening two notes . When you hear an interval and can’t name it, hum the reference song in your head — if it matches the first two notes, you’ve got the interval. The full list of references is in the previous lesson. Pick one interval per week . By 12 weeks you’ve internalised them all. A 5-minute daily drill Open the fretboard below. Click any note — call it the root. Without looking, click a random second note within 12 frets. Before moving your eyes back to the page, guess the interval (e.g. “minor 3rd”). Look. Check. If wrong, sing both notes and hum the reference song. Repeat with a new pair. Click any two notes — name the interval Toggle labels Singing > listening You will improve twice as fast if you sing the second note before you play it. The act of generating the pitch from your throat forces your brain to internalise the interval. Listening alone is passive; singing is ",
+"keywords": [
+"ear",
+"training",
+"recognising",
+"intervals"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/iv-05-consonance-and-tension/",
+"title": "Consonance, tension, and how intervals \"feel\"",
+"chapter_title": "Intervals — The Building Blocks",
+"summary": "Why some intervals sound smooth and others sound restless — and how to use that contrast on purpose.",
+"body": "A rough hierarchy Place every interval on a spectrum from “totally stable” to “screaming for resolution”: Interval Feel Use it as… P1, P8 Pure stability Doubling, rest, “home” P5 Strong, open, solid Power chords, “anchor” P4 Suspended, hanging “Sus” chords, transitional M3, m3 Sweet (M), sad (m), full The character of any chord M6, m6 Lyrical (M), wistful (m) Melody decoration, top notes M2, m2 Tense, close, dissonant Passing tones, leading tones m7 Bluesy, unresolved Dominant 7 chords, blues M7 Beautiful, unresolved Maj7 chords, jazz, ambient TT (♭5) Maximum tension, unstable Dominant chords, blues This is a generalisation — context changes everything. But it’s a useful starting point. How tension creates motion The most basic engine of Western music: tension wants to resolve . A tritone tends to want to collapse inward (its two notes pulling toward each other). A leading tone (the major 7th of a key) pulls upward to the tonic. A m7 pulls down a half-step. Once you can hear these pulls, you’ll understand why dominant 7 chords (which contain a tritone) feel like they have to move to the I chord. We’ll go deeper in Chord Progressions . Try this Play C and F♯ together (root and trito",
+"keywords": [
+"consonance",
+"tension",
+"and",
+"how",
+"intervals",
+"feel"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/me-01-melody-principles/",
+"title": "Principles of a good melody",
+"chapter_title": "Writing Melodies",
+"summary": "Five things every memorable melody has — and how to put them in your own.",
+"body": "Five universal principles The melodies you remember all share a small set of qualities. None are rules; all are tendencies. 1. Contour A melody has shape . It rises, falls, peaks, returns. Sing “Happy Birthday” — you can almost draw it on paper. Now sing a random sequence of seven notes from a scale — your ear notices instantly that the random version has no shape. When you write a melody, sketch its contour first , before choosing exact pitches. Will it rise to a peak? Where? Then come back down? 2. Step + leap balance Good melodies are mostly stepwise (move by 2nds) with occasional leaps. Too much stepwise motion feels predictable; too many leaps feel unmoored. The rule of thumb: After a leap , return by step in the opposite direction. (Most leaps need to be “recovered”.) Use leaps to mark important notes — the top of a phrase, the start of a new section. The classic shape of pop choruses: a leap up to the highest note (the “hook”), then stepwise descent. 3. Repetition + variation A melody returns to ideas it has already stated. Repeat a phrase, then vary it slightly . In music theory this is called motivic development — a motif is a small fragment (3-7 notes), and the melody is ",
+"keywords": [
+"principles",
+"good",
+"melody"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/me-02-motif-development/",
+"title": "Motif development",
+"chapter_title": "Writing Melodies",
+"summary": "How to turn a 3-note idea into a full melody. The same techniques classical composers and pop songwriters both use.",
+"body": "What a motif is A motif is the smallest meaningful musical idea — usually 2 to 7 notes with a specific rhythm and contour. The opening of Beethoven’s Fifth is a four-note motif. The “Star Wars” main theme starts with a five-note motif. The opening of “Smoke on the Water” is a four-note motif. A motif is small enough to remember instantly and large enough to recognise. Whole pieces of music can be built from a single one. The basic development techniques 1. Exact repetition Just play the motif again. The simplest, most powerful tool. The brain recognises the repetition and pays attention. 2. Sequence (move to a new pitch) Play the motif starting on a different note, keeping the same rhythm and shape. Pachelbel’s Canon is built almost entirely from sequenced motifs. If the motif is “1 - 3 - 5” in C (notes C-E-G), sequence it to “2 - 4 - 6” (D-F-A) — same shape, different starting pitch. 3. Rhythmic variation Keep the pitches; change the rhythm. The motif “C D E” played as three quarters sounds different from the same notes played as two eighths and a half. 4. Inversion Flip the contour upside down — where the motif goes up, the new version goes down. Often used by classical composers",
+"keywords": [
+"motif",
+"development"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/me-03-melody-over-chords/",
+"title": "Writing melody over a chord progression",
+"chapter_title": "Writing Melodies",
+"summary": "A systematic approach to placing notes on each chord so the melody and harmony reinforce each other.",
+"body": "Chord tones vs non-chord tones On any given chord, the notes from that chord’s spelling are chord tones : 1, 3, 5, (and 7). Notes from the key but not in the current chord are non-chord tones — they create momentary tension. Universal melodic rule: Land important notes on chord tones. Pass through non-chord tones. “Important” notes are: the first note of a phrase, the last note of a phrase, notes on strong beats (1 and 3 in 4/4), and any held / long-duration notes. A worked workflow Suppose your progression is C - Am - F - G (one chord per bar in 4/4): Bar 1 (C chord) — choose your bar-1 note from {C, E, G}. Let’s pick E . Bar 2 (Am chord) — choose from {A, C, E}. Pick A (jumps up to land on the chord root — strong). Bar 3 (F chord) — choose from {F, A, C}. Pick C (we already have an A from bar 2; C is the leap target). Bar 4 (G chord) — choose from {G, B, D}. Pick D (sets up resolution). Now you have four landing pitches: E - A - C - D . Fill in the rest by stepwise motion between them. Result melody (one option): Bar 1: E F G E Bar 2: A G A B Bar 3: C B A G Bar 4: D E D B → resolve to C on the next chord change Every strong beat lands on a chord tone of the current chord. The “in",
+"keywords": [
+"writing",
+"melody",
+"over",
+"chord",
+"progression"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/mo-01-modes-intro/",
+"title": "What modes actually are",
+"chapter_title": "Modes Demystified",
+"summary": "Modes are not separate scales. They're seven different \"homes\" inside the major scale — each with its own personality.",
+"body": "The simple definition Take a major scale. Start the scale on a different note instead of the root. Keep all seven notes. You’ve just made a mode. C major = C D E F G A B . Start on C → Ionian (= the major scale itself) Start on D → Dorian (D E F G A B C) Start on E → Phrygian (E F G A B C D) Start on F → Lydian (F G A B C D E) Start on G → Mixolydian (G A B C D E F) Start on A → Aeolian (A B C D E F G) = natural minor Start on B → Locrian (B C D E F G A) Each is the same seven notes but with a different “1”. Because the relationships from the new 1 to the other notes are different, each mode has a unique flavor. The seven modes at a glance Mode From C major Formula (semitones) Feel Ionian C 1 2 3 4 5 6 7 The major scale — bright, happy Dorian D 1 2 ♭3 4 5 6 ♭7 Cool minor — jazzy, hopeful Phrygian E 1 ♭2 ♭3 4 5 ♭6 ♭7 Dark minor — Spanish, ominous Lydian F 1 2 3 ♯4 5 6 7 Floating major — dreamy, ethereal Mixolydian G 1 2 3 4 5 6 ♭7 Bluesy major — rock, country, funk Aeolian A 1 2 ♭3 4 5 ♭6 ♭7 Natural minor — sad, classical Locrian B 1 ♭2 ♭3 4 ♭5 ♭6 ♭7 Unstable — rarely used as home The “1 2 3 4 5 6 7” column is the major scale; the alterations are what make each mode different. Mnemo",
+"keywords": [
+"what",
+"modes",
+"actually",
+"are"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/mo-02-dorian/",
+"title": "Dorian — the cool minor",
+"chapter_title": "Modes Demystified",
+"summary": "A minor scale with a raised 6. Sounds hopeful, jazzy, and modern — everywhere from Miles Davis to Daft Punk.",
+"body": "Quick facts Formula : 1 2 ♭3 4 5 6 ♭7 Compared to natural minor : same, but with a raised 6th. Mood : cool, hopeful, jazzy. Less sad than natural minor; less bright than major. Where you hear it : “Eleanor Rigby” (Beatles), “Scarborough Fair” (folk), “So What” (Miles Davis), “Get Lucky” (Daft Punk). Why the major 6 matters The single difference from natural minor — raising the ♭6 to a natural 6 — completely changes the colour. The 6 sits a whole-step below the ♭7, creating a sense of upward motion and lightness that natural minor lacks. In A natural minor : A B C D E F G — the F is a minor 6th, dark. In A Dorian : A B C D E F♯ G — the F♯ is a major 6th, bright. On the fretboard A Dorian Toggle labels The Dorian chord progression Dorian sounds best over a progression that emphasises the i minor chord and the IV major chord — the IV chord is what tells your ear “this isn’t natural minor, this is Dorian.” Classic A Dorian vamp: i Am tonic → IV D major IV → i Am tonic → IV D major IV ▶ Step through Loop Am → D → Am → D and solo using the A Dorian scale. That distinctive F♯ is what makes the mode sound like itself. Why guitarists love Dorian The “natural 6” gives you a brighter note to ",
+"keywords": [
+"dorian",
+"the",
+"cool",
+"minor"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/mo-03-phrygian/",
+"title": "Phrygian — the dark, Spanish mode",
+"chapter_title": "Modes Demystified",
+"summary": "A minor scale with a flat 2. Instantly Spanish, instantly dark, instantly metal.",
+"body": "Quick facts Formula : 1 ♭2 ♭3 4 5 ♭6 ♭7 Compared to natural minor : same, but the 2 is lowered a half-step. Mood : dark, exotic, Spanish, sinister, mystical. Where you hear it : flamenco music, “Wherever I May Roam” (Metallica) intro, “Symphony of Destruction” (Megadeth), countless Iron Maiden tunes. The “Phrygian” colour That ♭2 sitting one half-step above the tonic creates a half-step pull down to the tonic — incredibly dark and unstable. It’s the opposite of a major scale’s leading tone (a half-step below the tonic pulling up ). E natural minor: E F♯ G A B C D. E Phrygian: E F G A B C D — that single change from F♯ to F transforms the whole feel. On the fretboard E Phrygian Toggle labels The Phrygian vamp The most common way to use Phrygian: just two chords, i and ♭II . In E Phrygian: Em and F major . The half-step move between Em and F is the entire flavor of the mode. Loop Em → F → Em → F and solo in E Phrygian. Done. Phrygian dominant — a famous variant If you raise the 3rd of Phrygian, you get Phrygian dominant (also the 5th mode of harmonic minor): 1 ♭2 3 4 5 ♭6 ♭7. This is the sound of: Flamenco “Misirlou” (the Pulp Fiction surf riff) Many klezmer and Middle-Eastern melodi",
+"keywords": [
+"phrygian",
+"the",
+"dark",
+"spanish",
+"mode"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/mo-04-lydian/",
+"title": "Lydian — the dreamy major",
+"chapter_title": "Modes Demystified",
+"summary": "A major scale with a raised 4th. Floating, optimistic, cinematic — the sound of soundtrack composers and Steve Vai.",
+"body": "Quick facts Formula : 1 2 3 ♯4 5 6 7 Compared to major : same, but the 4 is raised a half-step (the famous “Lydian #4”). Mood : dreamy, optimistic, floating, magical. Where you hear it : The Simpsons theme opening, Star Wars “Yoda’s theme”, much of Steve Vai’s “For the Love of God”, Joe Satriani’s “Flying in a Blue Dream”. Why the ♯4 matters The raised 4th is the colour. Where a regular major scale has an F (in C major), Lydian has an F♯. That single semitone creates a tritone between the root and ♯4 — which gives Lydian its unmoored, floating quality. C major: C D E F G A B C Lydian: C D E F♯ G A B On the fretboard C Lydian Toggle labels The Lydian sound Lydian doesn’t need a complicated progression. Even a single I major7 chord — say, Cmaj7 — will sound Lydian if you emphasise the ♯4 in your melody. The most common backing: I — II (both major). In C Lydian: Cmaj7 → D major . The bright IImaj chord is the sound of Lydian. Where you’ll use it Film music — to suggest wonder, magic, or alien beauty. Modern jazz — over a maj7♯11 chord (which is a Lydian chord). Prog and shred — Vai, Satriani, Holdsworth. Pop — the “magical” chord in the chorus is often the IImaj of a Lydian moment. Tr",
+"keywords": [
+"lydian",
+"the",
+"dreamy",
+"major"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/mo-05-mixolydian/",
+"title": "Mixolydian — the bluesy major",
+"chapter_title": "Modes Demystified",
+"summary": "A major scale with a flat 7. The sound of rock, blues, country, and funk — your secret weapon over dominant 7 chords.",
+"body": "Quick facts Formula : 1 2 3 4 5 6 ♭7 Compared to major : same, but the 7 is lowered a half-step. Mood : bright but earthy, bluesy, “American”, rock-and-roll, funky. Where you hear it : “Sweet Home Alabama”, “Sweet Child O’ Mine” verse, “Royals” (Lorde) — basically half of rock and country music. Why the ♭7 matters In a major scale, the 7 is a “leading tone” that wants to resolve up to the 1 — that’s the engine of classical harmony. Mixolydian removes that pull. The ♭7 sits a whole step below the 1 and feels relaxed, not urgent. The result: a major-sounding scale without the formal resolution — perfect for groove music. G major: G A B C D E F♯ G Mixolydian: G A B C D E F On the fretboard G Mixolydian Toggle labels The Mixolydian vamp The classic two-chord Mixolydian backing: I — ♭VII (both major). In G Mixolydian: G → F . Loop it. Solo. That’s the sound of “Sympathy for the Devil,” “Tequila,” half of Tom Petty, and a thousand other tunes. Mixolydian over dominant 7 chords A dominant 7 chord (e.g. G7 = G B D F) contains exactly the notes 1, 3, 5, ♭7 of Mixolydian. So Mixolydian is the default scale for soloing over any dominant 7 chord . This is the second most important “scale-over-",
+"keywords": [
+"mixolydian",
+"the",
+"bluesy",
+"major"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/mo-06-aeolian-locrian/",
+"title": "Aeolian & Locrian — the dark side",
+"chapter_title": "Modes Demystified",
+"summary": "Aeolian is natural minor. Locrian is so unstable you'll rarely use it as a home key. Both are essential to understand.",
+"body": "Aeolian — the natural minor You already know this one. Aeolian = natural minor . Formula : 1 2 ♭3 4 5 ♭6 ♭7 Compared to major : ♭3, ♭6, ♭7 (three flats). Where you hear it : every “sad” rock song ever, “Stairway to Heaven”, “Losing My Religion”, almost every minor-key pop song. Aeolian is essentially the default minor mode. When someone says “play in A minor”, they usually mean Aeolian (which is the relative minor of C major). A Aeolian (= A natural minor) Toggle labels Locrian — the wild card Formula : 1 ♭2 ♭3 4 ♭5 ♭6 ♭7 Compared to natural minor : same, but with both a ♭2 and a ♭5. Mood : deeply unstable. The tonic chord of Locrian is a diminished triad (1, ♭3, ♭5), which contains a tritone — and so Locrian can’t really rest on its own tonic. Where you hear it : rarely as a song’s main mode. Used in metal, jazz fusion, and as a passing mode over diminished or m7♭5 chords. B Locrian — the most unstable mode Toggle labels When you actually use Locrian Locrian’s natural home is the vii° chord in a major key. In C major, that’s B diminished (B D F). When a song briefly visits this chord, Locrian is the matching scale. It’s also used in jazz over m7♭5 (half-diminished) chords , which ",
+"keywords": [
+"aeolian",
+"locrian",
+"the",
+"dark",
+"side"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/pe-01-pentatonic-intro/",
+"title": "The pentatonic scale — why five notes is enough",
+"chapter_title": "Pentatonic & Blues — Beyond the Box",
+"summary": "Why almost every rock and blues solo uses only five notes — and how to play the minor pentatonic in five connected positions.",
+"body": "What “pentatonic” means A pentatonic scale has five notes per octave instead of seven. The two pentatonics that matter: Minor pentatonic : 1 ♭3 4 5 ♭7 — five notes. Removes the 2 and ♭6 of natural minor. Major pentatonic : 1 2 3 5 6 — five notes. Removes the 4 and 7 of major. Why fewer notes? Because the notes you remove are the ones that can clash with chords. The remaining five sound right against almost anything in a key. You almost can’t play a “wrong” note. This is why minor pentatonic is the first scale every rock and blues guitarist learns — and why it sustains entire careers. A minor pentatonic in five positions The classic five “boxes” — each is a movable shape covering 2 octaves. The diagram below shows all five positions of A minor pentatonic connected across the whole neck. A minor pentatonic · whole neck Toggle labels Box 1 — the famous starting shape Most guitarists learn this first. Root at fret 5 of low E (A): . X . X (high E) . X . X . X X . . X X . . X X . X . X . (low E) 5 8 This is the entire vocabulary of more rock and blues solos than any other shape in history. Learn it cold first. Connecting the boxes The five boxes overlap. The end of Box 1 is the beginning",
+"keywords": [
+"the",
+"pentatonic",
+"scale",
+"why",
+"five",
+"notes",
+"enough"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/pe-02-five-positions/",
+"title": "Connecting the five positions",
+"chapter_title": "Pentatonic & Blues — Beyond the Box",
+"summary": "How to glue all five pentatonic boxes together so you can solo from any position on the neck.",
+"body": "The five-position map Each pentatonic position is a “box” of two octaves, centered on a different root location. Here’s the conventional ordering, using A minor pentatonic as the example: Box Lowest fret Root on low E Memorable name 1 fret 5 fret 5 (A) “the classic” 2 fret 7 — “Box 2” 3 fret 9–10 — “Box 3” 4 fret 12 fret 12 (A) “octave up Box 1” 5 fret 14–15 — “Box 5” Then Box 5 leads back to Box 1 one octave up. How to actually learn them Don’t try to memorise all five at once. Use this two-week plan: Days 1–3 : Box 1 only. Up, down, in thirds, in fourths. Days 4–5 : Box 2. Play it on its own; then play Box 1 → Box 2 → Box 1 as a smooth run. Days 6–7 : Box 3. Add it to the chain. Days 8–10 : Boxes 4 and 5. Days 11–14 : Free-roam — solo across all five. By the end you can start a phrase anywhere on the neck and continue it. Sliding between boxes The fastest way to move between boxes is slides on the high strings . Slide from a note in Box 1 up to its equivalent in Box 2. Your ear hears it as a single phrase; your hand has just shifted position. Example move (in A minor pent): - Play fret 8 on the high E (C, root’s ♭3) — that’s in Box 1. - Slide up to fret 10 on the same string (D, ",
+"keywords": [
+"connecting",
+"the",
+"five",
+"positions"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/pe-03-blues-scale/",
+"title": "The blues scale — adding the blue note",
+"chapter_title": "Pentatonic & Blues — Beyond the Box",
+"summary": "One extra note turns minor pentatonic into the most-used scale in rock and blues history.",
+"body": "The “blue note” The blues scale is minor pentatonic plus one extra note: the ♭5 (also called the “tritone” or “blue note”). Minor pentatonic: 1 ♭3 4 5 ♭7 Blues scale: 1 ♭3 4 ♭5 5 ♭7 In A: A C D E♭ E G. Why the ♭5 makes everything bluesy The ♭5 is the most dissonant note in Western music. Sit on it and it sounds painful. Pass through it and it sounds bluesy. The blues scale teaches you that the ♭5 is a passing tone — never a destination. Slide into it from the 4 and immediately to the 5 (or vice versa). That little half-step rub between 4-♭5-5 is the entire emotional engine of the blues. On the fretboard A blues scale — note the new ♭5 Toggle labels How real bluesmen use it Bending into it : bend the 4 up a half-step to the ♭5, then to the 5. Or bend the 5 down to the ♭5 and back. Hammer/pull : hammer 4→♭5→5 in quick succession. Quick passing : never sit on ♭5. Touch and leave. This 4–♭5–5 fragment, played thousands of different ways, is the heart of B.B. King, Albert King, Stevie Ray Vaughan, John Mayer, Joe Bonamassa, and every blues player since 1940. Major blues scale There’s a major blues scale too: major pentatonic plus a ♭3 (used as a passing tone between 2 and 3). Major pent",
+"keywords": [
+"the",
+"blues",
+"scale",
+"adding",
+"the",
+"blue",
+"note"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/pe-04-target-notes/",
+"title": "Target notes — playing chord changes, not just keys",
+"chapter_title": "Pentatonic & Blues — Beyond the Box",
+"summary": "How to make your solos follow the chords. The single biggest leap from beginner to intermediate soloing.",
+"body": "The problem with “one scale fits all” Most beginners learn that, say, the A minor pentatonic works over an entire blues in A. That’s true — you can play it over A7, D7, and E7 (the three chords of an A blues) and nothing will clash hard. But your solo will sound generic — it sounds like a scale being played, not like music being made. Great solos follow the chord changes. When the chord moves, the solo’s emphasised notes move too. Target notes = chord tones The “target” notes for any chord are its chord tones : the 1, 3, 5, (and 7) of that chord. Over A7 (A C♯ E G), the target notes are A, C♯, E, G . Over D7 (D F♯ A C), the target notes are D, F♯, A, C . Over E7 (E G♯ B D), the target notes are E, G♯, B, D . Notice — C♯ is in A7 but not in A minor pentatonic! Most blues players intentionally mix the ♭3 (C) and the natural 3 (C♯) over a I7 chord. This is why blues is bluesy. The “land on the chord tone” rule A simple guideline that transforms your soloing: On beat 1 of each chord change, land on a chord tone of the new chord. You can play whatever you want for the rest of the bar — but if beat 1 of a chord change lands on a strong chord tone, the entire solo will sound like it’s fol",
+"keywords": [
+"target",
+"notes",
+"playing",
+"chord",
+"changes",
+"not",
+"just",
+"keys"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/pe-05-phrasing/",
+"title": "Phrasing — turning scales into solos",
+"chapter_title": "Pentatonic & Blues — Beyond the Box",
+"summary": "The techniques that turn correct notes into music — bending, vibrato, slides, dynamics, and silence.",
+"body": "“Notes don’t make a solo. Phrases do.” A solo is not a sequence of notes. It’s a sequence of phrases — short musical sentences with a beginning and an end. Phrases breathe. They have shape. They leave room for the next one. If you take only one idea from this chapter, take this: play less. The five tools of phrasing 1. Bending Pushing a string sideways to raise its pitch. The most expressive technique on guitar. Practice these benders: Half-step bend : bend a note up one fret’s worth of pitch. (Hard to keep in tune at first.) Whole-step bend : bend up two frets. The blues classic. Bend and release : bend, hold, then return down. Adds vocal phrasing. Pre-bend : bend before striking the string, then release. Train your ear by bending a note to match a fretted reference note. If the bend is in tune, you’ll hear it lock. 2. Vibrato Wobbling a held note slightly to give it life. Two flavors: Classical vibrato : rocking the finger horizontally for subtle, controlled motion. Blues vibrato : bending and releasing rhythmically for a wide, vocal wobble. Vibrato applied to held notes is the single biggest difference between an amateur and a pro. Sustain a note. Add vibrato. Listen to how it c",
+"keywords": [
+"phrasing",
+"turning",
+"scales",
+"into",
+"solos"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/pr-01-functions-tonic-subdominant-dominant/",
+"title": "The three chord functions",
+"chapter_title": "Chord Progressions & Keys",
+"summary": "Every chord in a key has one of three jobs — tonic, subdominant, or dominant. Understanding these jobs lets you read music like a pro.",
+"body": "Three jobs, seven chords In any major key, every diatonic chord has one of three functions : Tonic (T) — home, rest, stability. I, iii, vi are tonic-family. Subdominant (SD) — motion away from home. ii, IV are subdominant-family. Dominant (D) — strong pull back home. V, vii° are dominant-family. The “T → SD → D → T” sequence is the gravity of music. Every song is a journey through these functions. If the Roman numerals look scary Roman numerals are just chord numbers. In C major, I means the chord built on note 1, which is C. IV means the chord built on note 4, which is F. V means the chord built on note 5, which is G. How chords cluster The chords inside each family share enough notes to substitute for each other: Family Chords in C major Shared anchor notes Tonic C, Em, Am Contain E (the 3 of C) Subdominant Dm, F Contain F (the 4 of C) Dominant G, Bdim Contain B (the 7 of C) The vi chord (Am) is the most powerful tonic substitute — it shares two notes with the I (Am = A C E; C = C E G). Replace a I with a vi and the song takes a melancholic turn but keeps its sense of resolution. Visualising the journey T I home → SD IV away → D V tension → T I resolve ▶ Step through This is the ",
+"keywords": [
+"the",
+"three",
+"chord",
+"functions"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/pr-02-common-progressions/",
+"title": "Common progressions you must know",
+"chapter_title": "Chord Progressions & Keys",
+"summary": "A handful of patterns that drive most of pop, rock, jazz, blues, and folk. Once you know them, you'll hear them everywhere.",
+"body": "The big six If you only learn six progressions in your life, learn these. They cover an enormous fraction of popular music. 1. I — V — vi — IV (the “pop-punk” progression) Used in: “Don’t Stop Believin’”, “Let It Be”, “With or Without You”, “No Woman No Cry”, thousands more. In C: C - G - Am - F . In G: G - D - Em - C . 2. vi — IV — I — V (same chords, different rotation) The “Axis” progression. Same four chords, starting on vi. In C: Am - F - C - G . In G: Em - C - G - D . Used in: “Africa” (Toto), “Save Tonight” (Eagle Eye Cherry). 3. I — IV — V (the three-chord blues/folk) Used in: nearly every 12-bar blues, “Wild Thing”, “La Bamba”, folk songs uncountable. In C: C - F - G . The 12-bar blues elaborates this into: I (4 bars) - IV (2 bars) - I (2 bars) - V - IV - I - V (turnaround) 4. ii — V — I (the jazz heartbeat) The defining cadence of jazz harmony. Used as a “module” — a complete mini-progression. In C: Dm7 - G7 - Cmaj7 . In F: Gm7 - C7 - Fmaj7 . Once you can play a ii-V-I in all 12 keys, you can play half of all jazz standards. 5. I — vi — IV — V (the doo-wop) Used in: “Stand By Me”, “Earth Angel”, “Why Do Fools Fall In Love”, “Crocodile Rock”. In C: C - Am - F - G . 6. 12-b",
+"keywords": [
+"common",
+"progressions",
+"you",
+"must",
+"know"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/pr-03-roman-numerals/",
+"title": "Roman numeral analysis",
+"chapter_title": "Chord Progressions & Keys",
+"summary": "The notation pros use to talk about chords in any key. Learn this and you can transpose anything on the fly.",
+"body": "The system Roman numerals refer to scale degrees , not specific chords. I = first chord of the key , ii = second chord , etc. Uppercase = major triad: I, IV, V Lowercase = minor triad: ii, iii, vi ° (degree symbol) = diminished: vii° Add “7” for 7th chord : Imaj7, ii7, V7, vi7… Flat or sharp before numeral = altered root: ♭III, ♭VI, ♭VII , etc. Slash for inversion : V/IV (the V of IV), I/3 (first inversion) A few examples: “I-IV-V” in C major = C - F - G “ii-V-I” in F major = Gm - C7 - F “i-♭VII-♭VI-V” in A minor = Am - G - F - E The benefit When you analyse a song, you don’t write down the chord letters — you write the functions . This way, the same Roman-numeral pattern can be played in any key. A working musician sees “I-V-vi-IV” and knows what to play in any key — even one they’ve never played the song in. Try doing that with “C-G-Am-F” alone. Common labelled progressions Once you’re fluent in Roman numerals, songs become tags: The “Axis” / pop-punk : I-V-vi-IV The “doo-wop” / “50s” : I-vi-IV-V The “Andalusian cadence” : i-♭VII-♭VI-V (in minor) — flamenco, prog rock The “ragtime/blues turnaround” : I-VI-ii-V (cycle of fifths fragment) The “circle of fifths” : Imaj7-IV7-vii°-iii",
+"keywords": [
+"roman",
+"numeral",
+"analysis"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/pr-04-circle-of-fifths/",
+"title": "The Circle of Fifths",
+"chapter_title": "Chord Progressions & Keys",
+"summary": "The single most useful map in music theory. Learn it once and key signatures, modulations, and progressions become obvious.",
+"body": "What it is The Circle of Fifths arranges all 12 notes in a circle, each separated by a perfect fifth (7 semitones). Starting at the top with C and moving clockwise (up a fifth each step) : C → G → D → A → E → B → F♯/G♭ → D♭ → A♭ → E♭ → B♭ → F → (back to C) Moving counter-clockwise (down a fifth, or up a fourth) gives you the same circle in reverse. The Circle of Fifths C G D A E B F♯ / G♭ D♭ A♭ E♭ B♭ F Am Em Bm F♯m C♯m G♯m D♯m/E♭m B♭m Fm Cm Gm Dm Major / minor What each direction tells you Clockwise (sharps) : each key adds one sharp. C major: 0 sharps G major: 1 sharp (F♯) D major: 2 sharps (F♯, C♯) A major: 3 sharps (F♯, C♯, G♯) E major: 4 sharps B major: 5 F♯ major: 6 C♯ major: 7 Counter-clockwise (flats) : each key adds one flat. C major: 0 flats F major: 1 flat (B♭) B♭ major: 2 flats E♭ major: 3 A♭ major: 4 D♭ major: 5 G♭ major: 6 C♭ major: 7 When you see a key signature on sheet music with 3 sharps, look at the 4th sharp it would add — the note one half-step above the last sharp — and that’s the tonic. Or just memorise that 3 sharps = A major / F♯ minor. Relative minors Each major key has a relative minor on the inside of the circle. Same notes, different home. Already covere",
+"keywords": [
+"the",
+"circle",
+"fifths"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/pr-05-modulation/",
+"title": "Modulation — changing keys mid-song",
+"chapter_title": "Chord Progressions & Keys",
+"summary": "Three reliable techniques for moving from one key to another, plus how to hear when a modulation is happening.",
+"body": "What modulation is Modulation = changing keys mid-song. The new key replaces the old one as the “home”, and from that point on, what feels like resolution is to the new tonic. This is different from just borrowing a chord. A borrowed chord is a temporary guest. A modulation redefines home . Three reliable modulation techniques 1. Pivot chord Find a chord that’s diatonic to both keys . Treat it as one function in the old key and another in the new key. Example: modulating from C major to G major. The chord G is V in C major and I in G major. Use it as a pivot: C … C … F … G (= I of new key) → C … D … G … G The audience hears the G in two roles — first as the dominant of C, then as the new home. Smooth. 2. Direct modulation (a.k.a. “the truck driver’s modulation”) Just jump to the new key by going to the new V chord. The most common version: up a half-step or whole-step at the start of a new chorus. Example: a song in E major, second-to-last chorus modulates to F major (up a half-step). The song doesn’t prepare the change — it just slams into it. Effect: massive emotional lift. Used (gratuitously) in “I Will Always Love You” (Whitney), “Man in the Mirror”, and a thousand power ballad",
+"keywords": [
+"modulation",
+"changing",
+"keys",
+"mid",
+"song"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/pra-01-daily-routine/",
+"title": "A practical daily routine",
+"chapter_title": "Practice Roadmap",
+"summary": "20- and 60-minute templates that cover everything important without burning you out.",
+"body": "The 20-minute daily For days when life is busy. Pick three items from below for 5-7 minutes each: Warmup (5 min) — chromatic scales, finger independence drills. Theory drill (5 min) — note-finding, chord building, or interval recognition. Repertoire (5 min) — work on one song you’re learning. Improvisation (5 min) — over a backing track or just a looped chord. Pick a different three each day. Across a week you cover everything. The 60-minute daily For dedicated practice days, split as follows: Warmup (5 min) Technique (10 min) — picking accuracy, alternate picking, chord transitions, barre cleanness. Ear training (5 min) — interval ID, chord-quality ID. Theory (5 min) — one focused topic from this site. Scales / shapes (10 min) — one scale in 3 keys, or one mode across the neck. Repertoire (15 min) — a song or piece you’re learning. Improvisation / writing (10 min) — free playing with intent. Total: 60 minutes. End on the creative work — it’s the most rewarding and you want to look forward to coming back tomorrow. What not to do Don’t grind 60 minutes of scales daily. It’s not useful past a beginner level. 10 minutes is plenty. Don’t practise mistakes. If you’re playing something w",
+"keywords": [
+"practical",
+"daily",
+"routine"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/pra-02-ear-training-drills/",
+"title": "Ear training drills",
+"chapter_title": "Practice Roadmap",
+"summary": "Practical exercises to build the single most valuable musical skill — recognising sounds without seeing them.",
+"body": "Why ear training is the highest-leverage practice Two musicians can know the same theory. The one with better ears will: Transcribe songs faster. Play more interesting solos. Write better melodies. Communicate with other musicians more easily. Sound more “musical” in everything. You don’t need natural talent — you need consistent, low-volume daily practice. The drills Drill 1 — Interval recognition (5 min/day) Sing or hum the first two notes of the “reference song” for each interval. Then have a friend (or an app like Tenuto, EarMaster, etc.) play random intervals; identify them. Aim: 80% accuracy on all 12 intervals within 6 months . Drill 2 — Sing a scale degree (3 min/day) Play a chord (e.g. C major). Without playing, sing the 3rd (E). Then sing the 5th (G). Then the 7 (B). Then the 9 (D). Check yourself by playing the note afterwards. This trains your brain to “find” scale degrees in your inner ear — the foundation of writing melodies. Drill 3 — Chord quality recognition (3 min/day) Listen to chords played in isolation. Identify: major, minor, dim, aug, 7th, m7, maj7, sus4. Start with just major vs minor; expand as your accuracy grows. Drill 4 — Bass line dictation (5 min/day) ",
+"keywords": [
+"ear",
+"training",
+"drills"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/pra-03-applying-theory/",
+"title": "How to actually apply theory",
+"chapter_title": "Practice Roadmap",
+"summary": "Theory is useless until it's in your hands. A workflow for turning each lesson into a habit.",
+"body": "The “lesson → habit” pipeline Every theory concept you learn must travel through these stages or it stays inert: Understand the concept on paper. Find it on the fretboard. Drill it slowly. Integrate it into improvisation and writing. Internalise it — use it without thinking. Most theory learners stop at step 1 or 2. The work is in 3, 4, 5. A worked example — learning the Dorian mode You’ve just read Dorian — the cool minor . Now: Day 1 — Understand. Re-read the lesson. Identify the formula (1 2 ♭3 4 5 6 ♭7). Note the difference from natural minor (raised 6). Day 2 — Find. Open the fretboard. Play D Dorian (same notes as C major, root on D). Play A Dorian (same notes as G major, root on A). Slowly. Out loud: “1, 2, ♭3, 4…” Day 3 — Drill. Play Dorian in three keys (D, A, E). Use a metronome at 80 BPM, quarter notes. Notice the F♯ (raised 6) in D Dorian — sit on it, listen. Day 4 — Drill phrases. Improvise 8-bar phrases in D Dorian over a Dm7 loop. Force yourself to land on the 6th (B) in every phrase. Day 5 — Integrate. Take an existing song you know in a minor key. Try it in Dorian by raising the 6. Compare. Which fits the lyric/mood better? Day 6 — Write. Write a 4-bar riff using D",
+"keywords": [
+"how",
+"actually",
+"apply",
+"theory"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/rh-01-beat-and-meter/",
+"title": "Beat, meter, and time signatures",
+"chapter_title": "Rhythm, Time, and Feel",
+"summary": "The \"pulse\" of music, how beats group into bars, and what 4/4, 3/4, 6/8 actually mean.",
+"body": "The beat A beat is the steady pulse you tap your foot to. Music’s heartbeat. In nearly all popular music, the beat is constant — it doesn’t speed up or slow down within a song (unless on purpose). Meter: beats in groups Beats are grouped into bars (or “measures”). The grouping is called the meter . The most common meter in Western pop music is 4/4 — four beats per bar. The top number tells you how many beats per bar . The bottom number tells you which note value gets one beat (4 = quarter note, 8 = eighth note, 2 = half note). Time sig Read as Feels like 4/4 Four-four Almost all pop, rock, country — count “1-2-3-4” 3/4 Three-four Waltzes — count “1-2-3” 6/8 Six-eight Compound — two big beats, each subdivided in 3 (“1-2-3-4-5-6”) 2/4 Two-four Marches 12/8 Twelve-eight Slow blues, soul — “1-2-3-4-5-6-7-8-9-10-11-12” 7/8, 5/4 Odd meters Prog rock, math rock, some jazz/folk Why 6/8 ≠ 3/4 Both have six “things” per bar. But: 3/4 is three quarter-notes — three large pulses (“ONE-two-three, ONE-two-three”). 6/8 is six eighth-notes grouped as two beats of three eighths each (“ONE-two-three-FOUR-five-six”). The accent pattern is different — and that’s what gives them their feel. 6/8 has a s",
+"keywords": [
+"beat",
+"meter",
+"and",
+"time",
+"signatures"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/rh-02-note-values-and-rests/",
+"title": "Note values, rests, and counting",
+"chapter_title": "Rhythm, Time, and Feel",
+"summary": "Whole, half, quarter, eighth, sixteenth, dotted, tied — the building blocks of any rhythm you'll ever play.",
+"body": "The hierarchy of note values Each value is half the length of the previous one. In 4/4 time: Note value Length in beats Symbol Whole 4 ○ (open with no stem) Half 2 ♩ open with stem Quarter 1 ♩ filled Eighth 1/2 ♪ with one flag Sixteenth 1/4 ♬ with two flags Thirty-second 1/8 three flags Each note value has a matching rest (silence of the same length). Dotted notes — add half their value A dot after a note means add half of that note’s length . Dotted half = 2 + 1 = 3 beats Dotted quarter = 1 + ½ = 1½ beats Dotted eighth = ½ + ¼ = ¾ beat Dotted rhythms are everywhere — the “long-short” feel of a dotted-eighth-then-sixteenth is the engine of countless rock and funk grooves. Tied notes — sum their values A tie connects two notes of the same pitch, summing their length but striking only the first. Used to write durations that don’t fit a single symbol, or to extend a note across a bar line. Example: a quarter tied to an eighth = 1.5 beats, just like a dotted quarter — but you’d use the tie if the note has to span a bar line. Triplets — three in the space of two A triplet splits a beat into three equal parts instead of two. Eighth-note triplets are written with a “3” above three flagged",
+"keywords": [
+"note",
+"values",
+"rests",
+"and",
+"counting"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/rh-03-syncopation-and-groove/",
+"title": "Syncopation, groove, and feel",
+"chapter_title": "Rhythm, Time, and Feel",
+"summary": "How to play notes off the beat — the difference between metronomic and grooving.",
+"body": "What syncopation is A strong beat in 4/4 is beats 1 and 3 (sometimes 2 and 4). A weak beat is everything in between — the “&”s and “e”s. Syncopation is when you accent or place notes on the weak parts while leaving the strong parts empty. This is the difference between a metronomically-correct robot and a player with feel. A syncopated 4/4 pattern Robot 1 2 3 4 Groove 1 & 2 & 3 4 & Bottom row: strong beats 2 and 4 are ghosted (palm-muted) while the “&” of each beat hits. That single shift transforms “1-2-3-4” into a groove. Backbeat In rock, pop, and funk, the snare drum plays on beats 2 and 4 (the “backbeat”). When you strum, accent your downstrokes on those beats. The bass plays on 1 and 3 (the “downbeat”). This is the engine of nearly every dance and rock groove. Anticipation — playing before the beat A common songwriting move: anticipate the chord change by playing the new chord on the “& of 4” (half a beat early). Example — a I → IV change: Bar 1: I I I I (strum on every beat) “& of 4” of bar 1: hit the IV chord early Bar 2: continue IV Listen for this in any pop chorus — it’s almost always there. It makes the chord change feel propulsive instead of mechanical. Try this Strum ",
+"keywords": [
+"syncopation",
+"groove",
+"and",
+"feel"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/rh-04-strumming-patterns/",
+"title": "Strumming patterns from scratch",
+"chapter_title": "Rhythm, Time, and Feel",
+"summary": "How to invent any strumming pattern from a grid of 16th notes — and a small library of patterns that cover most songs.",
+"body": "Strumming as a grid Every strumming pattern is a choice of which 16th notes you hit within a bar. Think of a 16-cell grid; mark which cells get a hit, then choose down or up for each. A universal rule: down-strums fall on numbered beats and “&”s, up-strums fall on “e” and “a” . This keeps your hand moving constantly — you only play on the cells you want, but your wrist keeps the down-up motion going. This is the single most important technique trick in rhythm guitar. A library of patterns Pattern 1 — Folk all-downs D — D — D — D — (quarter notes on every beat) Beginner-friendly. Boring on its own; perfect for ballads with a strong vocal. Pattern 2 — Folk standard D — D U — U D U (1, 2, &, &, 4, &) This is “the strumming pattern” your first teacher showed you. Works on ~30% of all acoustic singer-songwriter songs. Pattern 3 — Pop ballad D — D U U D D U (1, 2, &, &, 3, 4, &) A touch more momentum. Sounds like an Ed Sheeran or Taylor Swift verse. Pattern 4 — Funk 16ths D D U D U D U D U D U D U D U D (every 16th) Hands move on every 16th, but you only squeeze the fretting hand on the ones you want to sound — the others are muted “chika” sounds. The basis of all funk rhythm guitar. Pat",
+"keywords": [
+"strumming",
+"patterns",
+"from",
+"scratch"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/rh-05-tempo-and-feel/",
+"title": "Tempo, BPM, and feel choices",
+"chapter_title": "Rhythm, Time, and Feel",
+"summary": "How fast is fast? When to swing? Where to place your notes relative to the beat? Practical tempo and feel knowledge.",
+"body": "BPM at a glance BPM = beats per minute. A few mental landmarks: BPM Feel Examples 60 Slow ballad “Mad World” (Tears for Fears / Gary Jules) 80 Slow rock “Wonderwall”; many soul ballads 100 Mid pop “Hotel California” verse 120 Disco/rock Disco classics, “Don’t Stop Believin’” 140 Fast rock “Sweet Child O’ Mine” verse 160+ Fast / punk “Blitzkrieg Bop”; metal verses 180+ Speed Bluegrass, fast punk, thrash Practice with a metronome at the tempo you’ll perform at. Then drop to half speed . Most playing problems vanish at half tempo — meaning the problem was timing , not your fingers. The “feel” spectrum Beyond just speed, you choose where your notes sit relative to the click: On top of the beat — slightly ahead. Punk, surf, urgent rock. Drives the music forward. Right on the beat — neutral. Most pop, EDM, electronic. Behind the beat — slightly late. Blues, hip-hop, soul, R&B. “Laid back.” This is microscopic — we’re talking about 2–20 milliseconds of nudge — but it’s audible and feel-able. Listen to John Mayer’s blues guitar: it sits behind the beat. Listen to Green Day: it sits on top. You can practice this by setting a metronome and consciously trying to play either slightly behind or",
+"keywords": [
+"tempo",
+"bpm",
+"and",
+"feel",
+"choices"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/rl-01-how-to-use-the-reference/",
+"title": "How to use the reference library",
+"chapter_title": "Reference Library",
+"summary": "When to read chapters and when to jump straight to a cheat sheet — and the four reference pages every guitarist should bookmark.",
+"body": "The reference library is the entire tutorial compressed into single-page cheat sheets. The chapters are where you learn ; the reference is where you look up . When to use which Situation Go to You’re learning a topic for the first time The chapter (sidebar) You want to play a Cmaj7 right now and forgot the formula Chord library You’re trying to remember what mode is “raised 4th” Scale library You’re writing a song and want a fresh progression Common progressions You need to find G♯ on the 5th string Notes on the fretboard The four “tape on your guitar case” pages If you bookmark only four pages in Fretwise, make them these: Notes on the fretboard — until the neck is memorised, you’ll come back here a lot. Interval cheat sheet — every interval with a famous-song reference. The fastest way to train your ear. Circle of fifths — the relationship map for every key. Common progressions — pick a Roman-numeral pattern and transpose it. Instant songwriting unlock. How the diagrams work Every fretboard diagram in the reference is interactive. Click any note to highlight it. Use the buttons to cycle the labels between notes, scale degrees, and intervals. The diagrams are SVG — they print clea",
+"keywords": [
+"how",
+"use",
+"the",
+"reference",
+"library"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/rl-02-glossary/",
+"title": "Glossary of musical terms",
+"chapter_title": "Reference Library",
+"summary": "Every term used in Fretwise, defined in one sentence each. Use this when a word in a lesson stops you cold.",
+"body": "A one-sentence definition for every term used in this tutorial. Search this page (Ctrl/Cmd-F) for any word that stopped you while reading a lesson. A–C Accidental. A sharp, flat, or natural sign that changes a note from the key signature. Arpeggio. The notes of a chord played one at a time rather than struck together. Augmented. Raised by a semitone — usually applied to a 4th, 5th, or chord. Bar / Measure. A group of beats marked off by bar lines on the staff. Bend. Pushing a string sideways to raise its pitch — common in blues/rock. Cadence. A chord movement that creates a sense of ending (V–I, IV–I, etc.). Chord. Three or more notes sounded together. Chromatic. Moving by half-steps; using all 12 tones. Circle of fifths. The diagram that arranges keys by perfect fifths. D–F Diatonic. Belonging to the seven notes of the current key/scale. Diminished. Lowered by a semitone — applied to 5th, 7th, or chord. Dominant. The 5th degree of a scale, and the chord built on it (V or V7). Drop voicing. Re-arranging a 4-note chord by dropping one inner note an octave for a wider, more guitaristic sound. Enharmonic. Two names for the same pitch — F♯ and G♭ are enharmonic. Extension. A note added",
+"keywords": [
+"glossary",
+"musical",
+"terms"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/rl-03-where-to-go-next/",
+"title": "Where to go after Fretwise",
+"chapter_title": "Reference Library",
+"summary": "A short, opinionated list of the books, sites, and exercises that take you beyond this tutorial.",
+"body": "You’ve made it through every chapter. What now? This is an unbiased, deliberately short list — only resources that actually advance a working guitarist’s musicianship. Books Ted Greene, Chord Chemistry . The bible of chord theory for guitar. Dense and life-long. Mick Goodrick, The Advancing Guitarist . Re-orients you around single-string thinking and modal improvisation. William Leavitt, A Modern Method for Guitar . The Berklee curriculum — rigorous reading + theory. Mark Levine, The Jazz Theory Book . Not guitar-specific; the clearest theory book ever written about jazz harmony. Ear-training apps Functional Ear Trainer (Alain Benbassat method) — recognise notes by their scale-degree feel, not by raw pitch. Tenuto (iOS) — clean, focused drills on intervals, chords, key signatures. Lifetime exercises These four habits, done a little every day, will out-pace any course on the market: Transcribe by ear. Pick a song and figure it out without tabs. Start with melodies, then chords, then solos. Sing what you play. If you can’t sing a phrase, you don’t really hear it. This single habit separates intermediates from advanced players. Learn a new song every week. Doesn’t have to be perfect. ",
+"keywords": [
+"where",
+"after",
+"fretwise"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/sc-01-major-scale-formula/",
+"title": "The major scale formula",
+"chapter_title": "Major and Minor Scales",
+"summary": "A single seven-step pattern of whole- and half-steps generates every major scale in every key.",
+"body": "The pattern The major scale is defined by this sequence of intervals from its root: W — W — H — W — W — W — H Where W = whole step (2 frets) and H = half step (1 fret) . That’s the whole secret. Apply this pattern starting from any note and you get a major scale. Plain-language version If notes are letters, a scale is a chosen path through those letters. The major scale has a bright, familiar sound because the big steps and small steps happen in this exact order. Change the order and the mood changes. Derive C major Start on C and apply the formula: Step From → To Distance Note 1 (root) — — C 2 C → D W D 3 D → E W E 4 E → F H F 5 F → G W G 6 G → A W A 7 A → B W B 8 (oct) B → C H C C major: C D E F G A B . No sharps, no flats. The simplest scale to read. Derive G major Same formula, root on G : Step From → To Distance Note 1 — — G 2 G → A W A 3 A → B W B 4 B → C H C 5 C → D W D 6 D → E W E 7 E → F♯ W F♯ 8 F♯ → G H G G major: G A B C D E F♯ . One sharp. Notice we had to use F♯, not G♭ — because the scale must use each letter once . The sharp/flat keys Apply the formula starting on every note and you’ll always end up with either: All naturals (C major), or Some sharps (G, D, A, E, B, ",
+"keywords": [
+"the",
+"major",
+"scale",
+"formula"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/sc-02-scale-degrees/",
+"title": "Scale degrees — naming notes by function",
+"chapter_title": "Major and Minor Scales",
+"summary": "Scale degrees give every note in a key a role. Once you think in degrees you can transpose, compose, and improvise in any key.",
+"body": "Numbers, not letters When a guitarist says “the 5” , they don’t mean the letter G or D — they mean the fifth degree of whatever key we’re in . In C major, the 5 is G. In E major, the 5 is B. This is the single most useful mental switch you can make as a musician. Stop thinking in letter names. Start thinking in degrees. The seven degrees of any major scale Degree Name Function summary 1 Tonic Home base; rest, finality 2 Supertonic Mild motion, often passes 3 Mediant Gives the major/minor character 4 Subdominant Moves away from home; gentle pull 5 Dominant Tension; wants to go to 1 6 Submediant Relative minor’s home 7 Leading tone Strong pull upward to 1 The traditional names (tonic, subdominant, dominant…) come from classical theory. You don’t have to memorise them, but they’re useful labels. A worked example Play “Twinkle Twinkle Little Star” in C major. The melody starts on the tonic (1=C) , leaps to the dominant (5=G) , then steps to the submediant (6=A) and back to the dominant (5=G) : Twinkle (1) twinkle (1) little (5) star (5) how I (6, 6) wonder (5) That melody works in any key because the pattern of degrees — not the specific notes — is what makes it the song. Roman numeral",
+"keywords": [
+"scale",
+"degrees",
+"naming",
+"notes",
+"function"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/sc-03-major-scale-shapes/",
+"title": "Major scale shapes across the neck",
+"chapter_title": "Major and Minor Scales",
+"summary": "Five connected box positions cover the entire neck. Learn them once and you can play in any key by sliding to the right root.",
+"body": "The “CAGED” idea There are five common box-position shapes for the major scale. They overlap to cover the entire neck. The CAGED system names them after the five open-chord shapes (C, A, G, E, D) — each scale shape sits around one of those chord shapes. You don’t need to memorise the CAGED names today; you need to see how the boxes connect . The diagram below shows all positions of the C major scale from open to fret 15. C major · full-neck shapes Toggle labels The first shape to learn Start with the “E-form” major scale shape with its root on the low E string . From a root at fret X on the low E: . . X ← root one octave up (high E, +X frets from open) X . . X . . X . X . X . X . X X . X ← root (low E, fret X) This is a movable shape. Set the root on G (fret 3) to play G major. Slide it to A (fret 5) to play A major. The pattern doesn’t change. The second shape (A-form root) Same idea, now with the root on the A string : . X . X (high E) . X . . . X X . X X . . X ← root (A string) . . . . Switch between these two shapes (E-form and A-form) and you can play any major scale anywhere on the neck. The other three shapes (D-form, C-form, G-form) connect them at higher frets — learn them",
+"keywords": [
+"major",
+"scale",
+"shapes",
+"across",
+"the",
+"neck"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/sc-04-minor-scales/",
+"title": "Natural, harmonic, and melodic minor",
+"chapter_title": "Major and Minor Scales",
+"summary": "Three flavors of the minor scale. Each has a distinct sound and a specific job.",
+"body": "The three minors Most pop music uses one or more of these three minor scales. Understanding their differences gives you huge expressive range. 1. Natural minor Formula: W — H — W — W — H — W — W Or, in terms of degrees: 1 — 2 — ♭3 — 4 — 5 — ♭6 — ♭7 A minor: A B C D E F G . The “saddest” sounding of the three — minor third, minor sixth, minor seventh. This is the relative minor of every major scale. A natural minor uses exactly the same notes as C major — it’s just starting on A instead of C. Same notes, different home, completely different mood. 2. Harmonic minor Formula: W — H — W — W — H — Aug2 — H Degrees: 1 — 2 — ♭3 — 4 — 5 — ♭6 — 7 (a natural 7th, raised from the natural minor) A harmonic minor: A B C D E F G♯ . The “Spanish/Middle-Eastern/cinematic” sound — that big augmented-second gap between ♭6 and 7 gives it an exotic flavor. Why does this scale exist? Because classical composers wanted a strong dominant chord (a V major with a leading tone pulling up to the tonic) in minor keys. Raising the 7th gives you that. 3. Melodic minor Formula (ascending): W — H — W — W — W — W — H Degrees ascending: 1 — 2 — ♭3 — 4 — 5 — 6 — 7 A melodic minor: A B C D E F♯ G♯ . Like a major scale",
+"keywords": [
+"natural",
+"harmonic",
+"and",
+"melodic",
+"minor"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/sc-05-relative-major-minor/",
+"title": "Relative & parallel keys",
+"chapter_title": "Major and Minor Scales",
+"summary": "Every major scale has a \"shadow\" minor scale that shares its notes — and vice versa. Master this and you double your vocabulary instantly.",
+"body": "Relative — same notes, different home The relative minor of a major scale uses exactly the same seven notes , just centred on a different note. The relative minor of any major key is the 6th degree of that major. C major → A minor (A is the 6th degree of C) G major → E minor D major → B minor E major → C♯ minor F major → D minor B♭ major → G minor Numerically: relative minor root = major root + 9 semitones (or − 3 semitones). Why it matters Songs constantly toggle between a major key and its relative minor — and the toggle is seamless because no notes change. You can hear this in: “Here Comes the Sun” (Beatles) — verses lean toward A major; the middle section lifts into the relative minor. “Hotel California” — uses the relative minor’s chord (vi) as a melancholic anchor. Most “sad pop” choruses — the chorus is in the relative minor of the verse’s major key. Parallel — same root, different scale The parallel minor has the same root as the major but lowers the 3rd, 6th, and 7th. C major (C D E F G A B) → C minor (C D E♭ F G A♭ B♭) A swap to the parallel minor is a much more dramatic harmonic move — three notes change at once. It’s used for sudden mood shifts (“borrowing” chords from ",
+"keywords": [
+"relative",
+"parallel",
+"keys"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/sw-01-song-forms/",
+"title": "Song forms — the architecture of a song",
+"chapter_title": "Songwriting & Composition",
+"summary": "Verse, chorus, bridge — and the half-dozen forms that organise 99% of pop, rock, jazz, and folk songs.",
+"body": "The basic sections Most songs are built from a small vocabulary of section types: Intro — sets up the song, often based on the verse or chorus chords with simpler arrangement. Verse — usually narrative or descriptive. Lyrics change between verses; melody stays similar. Pre-chorus — a transition section that builds anticipation for the chorus. Chorus — the “main statement”. Same lyrics each time. Usually the catchiest part. Bridge — contrasting section, usually appears once, near 2/3 of the way through. Outro — winds the song down. Often based on the chorus. Six common forms 1. Verse-Chorus (the standard pop form) Intro - V1 - C - V2 - C - Bridge - C - Outro This is the form of probably half of all hit pop songs in the last 50 years. 2. Verse-Chorus with pre-chorus Intro - V1 - PC - C - V2 - PC - C - Bridge - PC - C - Outro Slightly more sophisticated. The pre-chorus is a builder ramp into the chorus. Used in “Livin’ on a Prayer”, “I Want It That Way”, “All Star”. 3. AABA (the Tin Pan Alley / Beatles form) A - A - B - A Each section is 8 bars (or 16). A is the verse melody; B is the bridge. No separate chorus. Used in: “Yesterday”, “Over the Rainbow”, “Heart and Soul”, thousands of ",
+"keywords": [
+"song",
+"forms",
+"the",
+"architecture",
+"song"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/sw-02-writing-your-first-song/",
+"title": "Writing your first song — a 7-step process",
+"chapter_title": "Songwriting & Composition",
+"summary": "A concrete, step-by-step workflow you can follow this afternoon. Yes, today.",
+"body": "The process There’s no “right” way to write a song, but here is a process that works for beginners and gets you to a complete piece quickly. 1. Choose a key (2 minutes) Pick a key you can sing in. If you sing low, try G major or D major. If you sing high, try C major or A major. Don’t over-think. 2. Choose a chord progression (5 minutes) Pick one of the six common progressions from Common Progressions . Suggested for first-timers: I - V - vi - IV (in G: G - D - Em - C) Loop it. Just strum quarter notes. Get used to the feel. 3. Hum a melody (15 minutes) With the chords looping, hum any melody. No words. Just sounds. Record yourself on your phone — even if it feels silly. Don’t write anything down yet. Just hum, repeatedly. Variations will emerge naturally. Find one humming pattern you actually like and commit to it. This is your verse melody . 4. Write lyrics for the verse (30 minutes) Lyrics come from your life. Pick a feeling you’ve had this week. Write a four-line stanza. The lines should fit the rhythm of your hummed melody — count syllables and match the long/short pattern. Beginner trap: trying to be poetic. Just write what’s true. Specific beats clever : “The kitchen light i",
+"keywords": [
+"writing",
+"your",
+"first",
+"song",
+"step",
+"process"
+],
+"kind": "lesson"
+},
+{
+"url": "lessons/sw-03-arrangement/",
+"title": "Arrangement — making your song breathe",
+"chapter_title": "Songwriting & Composition",
+"summary": "How to use intro, dynamics, and instrumentation to give your song shape, even if you're a solo guitarist.",
+"body": "What “arrangement” means Arrangement is how a song unfolds in time. Same chords, same melody — but a great arrangement makes the song feel like a journey, while a bad arrangement makes it feel like four minutes of the same thing. The three knobs you turn: Density — how many instruments / how busy each one is. Range — high vs low. Dynamics — quiet vs loud. Even alone with a guitar and voice, you have these knobs. Use them. A universal arrangement arc The shape of a typical pop arrangement: Intro — sparse (just guitar or piano) Verse 1 — sparse, builds slightly Chorus 1 — fuller (drums in, harmony vocals in) Verse 2 — back down, but slightly fuller than verse 1 Chorus 2 — bigger than chorus 1 Bridge — different texture (strip back OR push higher) Chorus 3 (final) — biggest version, key change or extra instruments Outro — back down, fading This shape — sparse → full → sparse → fuller → contrast → biggest → sparse — is the universal “arc” of a pop arrangement. You can hear it in countless songs. Solo guitar arrangement techniques If you’re playing alone, the band is you — but you still control density, range, and dynamics: Intro : pick single notes (chord arpeggios). Maximum sparse. Ve",
+"keywords": [
+"arrangement",
+"making",
+"your",
+"song",
+"breathe"
+],
+"kind": "lesson"
+},
+{
+"url": "chapters/chord-construction/",
+"title": "Chord Construction",
+"chapter_title": "Chord Construction",
+"summary": "Every chord — from a power chord to a Cmaj13#11 — is built by stacking intervals. Learn the recipe and you'll never need a chord chart again.",
+"body": "A chord is just three or more notes played together. The most common ones are built by stacking thirds: take a scale, pick every other note. That’s it. Once you understand this, you can derive any chord from scratch and find it anywhere on the neck. We’ll cover triads (major, minor, diminished, augmented), seventh chords (maj7, m7, dom7, m7♭5), extensions (9, 11, 13), inversions, voicings, and the harmonised major scale that powers most songs you’ve ever heard.",
+"keywords": [
+"chord",
+"construction"
+],
+"kind": "chapter"
+},
+{
+"url": "chapters/fretboard-mastery/",
+"title": "Fretboard Mastery",
+"chapter_title": "Fretboard Mastery",
+"summary": "Learn every note on every string without rote memorisation — using octaves, anchor notes, and the shapes you already know.",
+"body": "Most guitarists never truly learn the fretboard. They learn shapes. That’s why they get stuck. The good news: you don’t need to memorise 144 individual notes. You need to memorise about 12 anchor notes and learn two octave shapes. The rest is geometry — and once you see it, the entire neck opens up. In this chapter we’ll walk through anchor notes, octave shapes, the natural-note “spine” of the neck, and a 10-minute daily drill that will give you total recall within a few weeks.",
+"keywords": [
+"fretboard",
+"mastery"
+],
+"kind": "chapter"
+},
+{
+"url": "chapters/getting-started/",
+"title": "Getting Started",
+"chapter_title": "Getting Started",
+"summary": "What music theory actually is, why guitarists need it, and the absolute essentials — notes, the alphabet, half- and whole-steps — that everything else builds on.",
+"body": "Music theory is just the names we give to things we can already hear . It’s not magic, and it’s not a barrier — it’s a shared language that makes the patterns of music visible. This chapter gives you the four things you need before anything else makes sense: the musical alphabet, the idea of a half-step, what a “key” roughly means, and how the guitar fretboard maps to all of it. By the end you’ll be able to name any note on any string. If you’ve never read theory before, work through every lesson in order. If you’re returning after a break, you can skim — but don’t skip the half-step lesson; it’s the seed of everything in this book.",
+"keywords": [
+"getting",
+"started"
+],
+"kind": "chapter"
+},
+{
+"url": "chapters/harmony-voice-leading/",
+"title": "Harmony & Voice Leading",
+"chapter_title": "Harmony & Voice Leading",
+"summary": "Why some chord progressions sound smooth and others sound clunky. Learn how to move between chords with minimum motion — the secret of every great songwriter.",
+"body": "Voice leading is the difference between a song that flows and one that lurches. It’s the principle that each voice (each note in your chord) should move as little as possible — and ideally by step — to the next chord. This is what separates beginner arrangements from professional ones. We’ll cover voice leading basics, common-tone connections, inversion choices, drop voicings on guitar, contrary motion, and how to use these tools to make your chord progressions sound impossibly smooth.",
+"keywords": [
+"harmony",
+"voice",
+"leading"
+],
+"kind": "chapter"
+},
+{
+"url": "chapters/improvisation/",
+"title": "Improvisation & Solo Building",
+"chapter_title": "Improvisation & Solo Building",
+"summary": "How to take everything you've learned and play a solo that actually says something. Target notes, motifs, phrasing, and how to escape the scale.",
+"body": "Improvising isn’t running scales fast. The best solos in the world use very few notes — but they place every one of them on purpose. By this point you have every ingredient you need; this chapter teaches you how to cook. We’ll cover targeting chord tones, building motifs and developing them, call-and-response, dynamics and space, “outside” notes and how to come back home, and a structured way to practise improvisation that will make rapid, audible progress.",
+"keywords": [
+"improvisation",
+"solo",
+"building"
+],
+"kind": "chapter"
+},
+{
+"url": "chapters/intervals/",
+"title": "Intervals — The Building Blocks",
+"chapter_title": "Intervals — The Building Blocks",
+"summary": "Distances between notes are the atoms of music. Learn how to name, hear, and play every interval — and why this single skill unlocks scales, chords, and melody.",
+"body": "An interval is the distance between two notes. That’s it. But intervals are everything: scales are stacks of intervals, chords are stacks of intervals, melody is a sequence of intervals, harmony is intervals sounding together. If you can recognise intervals by ear, you can transcribe songs. If you can find them on the fretboard, you can improvise. If you can stack them, you can write chords from nothing. This is the single highest-leverage skill in music theory. We’ll cover the twelve intervals (unison through octave), how each one sounds and feels, the shapes for them on guitar, and how to practise recognising them.",
+"keywords": [
+"intervals",
+"the",
+"building",
+"blocks"
+],
+"kind": "chapter"
+},
+{
+"url": "chapters/major-minor-scales/",
+"title": "Major and Minor Scales",
+"chapter_title": "Major and Minor Scales",
+"summary": "The two scales that shape almost all Western music. Learn the formula, the shapes across the neck, scale degrees, and how the same notes can sound bright or sad.",
+"body": "Almost every song you’ve ever heard lives inside a major or a minor scale. They’re built from the same twelve notes — just arranged in different patterns of whole- and half-steps. In this chapter we’ll derive the major scale from a single formula, learn three natural minor variations (natural, harmonic, melodic), connect their shapes across the whole neck, and start using scale degrees as functional labels — the first step toward writing melody and harmony with intent.",
+"keywords": [
+"major",
+"and",
+"minor",
+"scales"
+],
+"kind": "chapter"
+},
+{
+"url": "chapters/melody-writing/",
+"title": "Writing Melodies",
+"chapter_title": "Writing Melodies",
+"summary": "A melody isn't a scale played top to bottom. Learn the principles — contour, motif, tension, resolution — that make a tune memorable.",
+"body": "You already hum melodies all day. Writing one down is just learning to listen to your own brain. But there are principles — contour, motif development, tension and release, rhythmic interest — that the great melodies share. In this chapter we’ll dissect what makes a melody catchy, how to develop a single motif into a full melody, how to use scale tones vs chord tones, and how to write melodies for a chord progression instead of over one.",
+"keywords": [
+"writing",
+"melodies"
+],
+"kind": "chapter"
+},
+{
+"url": "chapters/modes/",
+"title": "Modes Demystified",
+"chapter_title": "Modes Demystified",
+"summary": "Modes are not \"scales over chords you don't understand\". They're flavors of the major scale — and once you hear them, you can never un-hear them.",
+"body": "Modes get a bad reputation because they’re usually taught backwards. We’ll teach them forward — by sound first, theory second. Each mode is a different “home note” inside the major scale. Same seven notes, different centre of gravity, completely different mood. By the end of this chapter you’ll be able to recognise Dorian, Phrygian, Lydian, Mixolydian, Aeolian, and Locrian by ear, find them on the neck, and use them to write riffs and solos that sound nothing like a vanilla major scale.",
+"keywords": [
+"modes",
+"demystified"
+],
+"kind": "chapter"
+},
+{
+"url": "chapters/pentatonic-blues-beyond-boxes/",
+"title": "Pentatonic & Blues — Beyond the Box",
+"chapter_title": "Pentatonic & Blues — Beyond the Box",
+"summary": "Most guitarists know \"Box 1\" and nothing else. Learn all five positions, target notes, bends, and how to phrase like the players you love.",
+"body": "There’s a reason every rock and blues player starts with the minor pentatonic: it’s almost impossible to play a wrong note. But there’s also a reason most guitarists’ solos all sound the same: they live in Box 1 forever. In this chapter we’ll connect the five pentatonic positions into one neck-wide map, add the “blue” note for the blues scale, and then — most importantly — teach you the phrasing tools that turn scales into solos: targeting chord tones, bending, vibrato, and call-and-response.",
+"keywords": [
+"pentatonic",
+"blues",
+"beyond",
+"the",
+"box"
+],
+"kind": "chapter"
+},
+{
+"url": "chapters/practice-roadmap/",
+"title": "Practice Roadmap",
+"chapter_title": "Practice Roadmap",
+"summary": "A weekly practice plan that ties everything together — technique, ear training, theory, repertoire, and writing.",
+"body": "A great musician isn’t someone who knows more theory than you. It’s someone who has practised the right things for longer. This chapter gives you a structured weekly plan with concrete drills, so each session moves you forward instead of in circles. We’ll cover daily 20-minute and 60-minute templates, ear-training drills, transcription, technique work, theory review, repertoire, and writing — and how to balance them through different stages of your playing.",
+"keywords": [
+"practice",
+"roadmap"
+],
+"kind": "chapter"
+},
+{
+"url": "chapters/progressions-and-keys/",
+"title": "Chord Progressions & Keys",
+"chapter_title": "Chord Progressions & Keys",
+"summary": "How chords move, why some progressions feel finished and others feel like they want to keep going, and how to write progressions in any key.",
+"body": "Chord progressions aren’t random — they follow patterns. Tonic, subdominant, dominant: three jobs, infinite ways to assign them. Understand these three functions and you can hear where any song is about to go, and write progressions that feel inevitable. In this chapter we’ll cover Roman-numeral analysis, the I-IV-V system, the most common progressions in pop/rock/blues/jazz, secondary dominants, modulation between keys, and how to use the Circle of Fifths to find chords that sound great together.",
+"keywords": [
+"chord",
+"progressions",
+"keys"
+],
+"kind": "chapter"
+},
+{
+"url": "chapters/reference-library/",
+"title": "Reference Library",
+"chapter_title": "Reference Library",
+"summary": "Cheat sheets you'll come back to forever — scales, chords, intervals, the circle of fifths, common progressions, and music notation basics.",
+"body": "This chapter is your bookshelf. It’s not designed to be read end-to-end — it’s the page you’ll bookmark and revisit when you forget the formula for a Dorian mode or the notes in F♯ minor. The reference pages also live in the Quick reference section of the sidebar so they’re always one click away from any lesson.",
+"keywords": [
+"reference",
+"library"
+],
+"kind": "chapter"
+},
+{
+"url": "chapters/rhythm/",
+"title": "Rhythm, Time, and Feel",
+"chapter_title": "Rhythm, Time, and Feel",
+"summary": "Pitch is half of music; rhythm is the other half. Learn time signatures, subdivisions, syncopation, swing, and how rhythm gives your playing its character.",
+"body": "A correct note at the wrong time sounds wrong. A “wrong” note at the right time can sound like a classic. Rhythm is more important than pitch — and most theory books barely touch it. In this chapter you’ll learn how time signatures work, how to subdivide a beat, how to read and write basic rhythmic notation, and how groove, syncopation, and swing transform a sequence of notes into something that makes people move.",
+"keywords": [
+"rhythm",
+"time",
+"and",
+"feel"
+],
+"kind": "chapter"
+},
+{
+"url": "chapters/songwriting/",
+"title": "Songwriting & Composition",
+"chapter_title": "Songwriting & Composition",
+"summary": "Put it all together — verses, choruses, bridges, intros, outros, and the larger forms used in pop, rock, jazz, and classical-style guitar pieces.",
+"body": "Theory is only useful if it helps you make music. This chapter is about the architecture of a complete song: how sections relate to each other, what makes a chorus feel like a chorus, how to write a bridge that adds something new, and how to use modulation and dynamics to keep a listener engaged. We’ll cover song forms (verse-chorus, AABA, blues, 12-bar variants, through-composed), arrangement principles, lyric/melody matching, instrumental composition for solo guitar, and a full step-by-step workflow you can use to write your own first song this week.",
+"keywords": [
+"songwriting",
+"composition"
+],
+"kind": "chapter"
+},
+{
+"url": "",
+"title": "Learn guitar music theory — from your first scale to full compositions",
+"chapter_title": "",
+"summary": "A free, complete guitar music theory tutorial built like W3Schools. Sidebar chapters, lesson pages, search, interactive fretboards, animations, and a clear path from beginner to advanced composer.",
+"body": "Free guitar music theory tutorial · zero knowledge to advanced Stop looping the same scale. Start writing your own music. Fretwise is a complete curriculum for guitarists who want to understand why music works. If you know nothing yet, start with the zero-knowledge path. If you already play, jump into the chapters. Either way, the goal is the same: understand notes, chords, scales, rhythm, solos, and full songs in plain language. Start from zero → Chapter 1 All chapters Beginner mode Learn it like a language, not like a math test. If a word is new, the site explains it before asking you to use it. Lessons now include zero-knowledge translations, checkpoints, and “play this now” tasks so a guitarist can build understanding step by step. Level 0 No theory Level 1 Notes and frets Level 2 Scales and chords Level 3 Progressions and songs Level 4 Solos and composition 🎸 Fretboard you actually understand Interactive diagrams that show where every note, interval, and chord tone lives — and how",
+"keywords": [
+"learn",
+"guitar",
+"music",
+"theory",
+"from",
+"your",
+"first",
+"scale",
+"full",
+"compositions"
+],
+"kind": "page"
+},
+{
+"url": "reference/",
+"title": "Reference library",
+"chapter_title": "Reference",
+"summary": "Fast lookup tables for notes, scales, chords, intervals, the circle of fifths, and common chord progressions on guitar.",
+"body": "Home › Reference Quick lookup Reference library The whole tutorial distilled into single-page cheat sheets. Bookmark these — you'll come back to them more than the chapters. N Notes on the fretboard Every note on every string from open through fret 12, with octave map. S Scale library Major, minor, modes, pentatonic, blues, harmonic and melodic minor — formulas and diagrams. C Chord library Triads, sevenths, extensions, suspended, altered — formulas and shapes. I Interval cheat sheet Every interval in semitones, with sound, shape, and example song. G Plain-English glossary Simple definitions for theory words that confuse beginners: interval, key, diatonic, dominant, motif, and more. 5 Circle of fifths All twelve keys, their signatures, and their relative minors at a glance. P Common progressions The 20-or-so chord progressions that power most popular music, in every key.",
+"keywords": [
+"reference",
+"library"
+],
+"kind": "page"
+},
+{
+"url": "reference/notes/",
+"title": "Notes on the fretboard",
+"chapter_title": "Reference",
+"summary": "Every note on every string of a standard-tuned guitar, fret 0 through fret 12.",
+"body": "Home › Reference › Notes on the fretboard Reference Notes on the fretboard Standard tuning, fret 0 (open) through fret 12 (octave). After fret 12 the pattern repeats one octave higher. The natural-note map Sharps and flats are the half-steps between these. Memorise the natural notes first — the sharps and flats are just \"the fret between\". All natural notes — every string, 12 frets String-by-string table Open string in the leftmost column. Fret 12 is one octave above the open string and has the same name. String 0 1 2 3 4 5 6 7 8 9 10 11 12 1 (high E) E F F♯ G G♯ A A♯ B C C♯ D D♯ E 2 (B) B C C♯ D D♯ E F F♯ G G♯ A A♯ B 3 (G) G G♯ A A♯ B C C♯ D D♯ E F F♯ G 4 (D) D D♯ E F F♯ G G♯ A A♯ B C C♯ D 5 (A) A A♯ B C C♯ D D♯ E F F♯ G G♯ A 6 (low E) E F F♯ G G♯ A A♯ B C C♯ D D♯ E Octave shapes Three reliable patterns to find the same note one octave higher without counting frets. Strings 6 → 4: up 2 strings, up 2 frets. Strings 5 → 3: up 2 strings, up 2 frets. Strings 4 → 2: up 2 strings, up 3 fret",
+"keywords": [
+"notes",
+"the",
+"fretboard"
+],
+"kind": "page"
+},
+{
+"url": "reference/intervals/",
+"title": "Interval cheat sheet",
+"chapter_title": "Reference",
+"summary": "Every interval from unison to octave — semitones, quality, sound, and a famous song that opens with it.",
+"body": "Home › Reference › Interval cheat sheet Reference Interval cheat sheet An interval is the distance between two notes, measured in semitones (half-steps). Learn these twelve and you can identify any sound by ear. Semitones Name Short Sound Song reference (first two notes) 0 Unison P1 The same note — 1 Minor 2nd m2 Tense, leaning, \"Jaws\" Jaws theme 2 Major 2nd M2 Stepwise, hopeful Happy Birthday 3 Minor 3rd m3 Sad, minor-chord 3rd Greensleeves 4 Major 3rd M3 Happy, major-chord 3rd When the Saints Go Marching In 5 Perfect 4th P4 Strong, \"Here Comes the Bride\" Here Comes the Bride 6 Tritone TT / ♯4 / ♭5 Unstable, \"The Simpsons\" The Simpsons theme 7 Perfect 5th P5 Open, powerful, \"Star Wars\" Star Wars main theme 8 Minor 6th m6 Dark, longing The Entertainer (descending) 9 Major 6th M6 Sweet, \"NBC chimes\" NBC chimes / My Bonnie 10 Minor 7th m7 Bluesy, dominant-chord 7th Somewhere (West Side Story) 11 Major 7th M7 Dreamy, jazzy Take On Me chorus 12 Octave P8 Same note, higher Somewhere Over th",
+"keywords": [
+"interval",
+"cheat",
+"sheet"
+],
+"kind": "page"
+},
+{
+"url": "reference/scales/",
+"title": "Scale library",
+"chapter_title": "Reference",
+"summary": "Formulas and interactive fretboard diagrams for the scales every guitarist should know.",
+"body": "Home › Reference › Scale library Reference Scale library The scales every guitarist should be fluent in, each with its formula in scale-degrees and an interactive fretboard. Switch the root by editing the diagram's data-root ; the patterns transpose. Major scale Formula: 1 2 3 4 5 6 7 — the parent of Western music. Whole-Whole-Half-Whole-Whole-Whole-Half. C major Natural minor scale Formula: 1 2 ♭3 4 5 ♭6 ♭7 — the relative minor of the major scale. Same notes as the major scale starting from the 6th degree. A natural minor Harmonic minor scale Formula: 1 2 ♭3 4 5 ♭6 7 — natural minor with a raised 7th. The Spanish / classical / metal sound. A harmonic minor Melodic minor scale Formula: 1 2 ♭3 4 5 6 7 — natural minor with raised 6th and 7th. Used in jazz over minor chords. A melodic minor Major pentatonic Formula: 1 2 3 5 6 — major scale minus the 4th and 7th. Country, folk, pop melodies. G major pentatonic Minor pentatonic Formula: 1 ♭3 4 5 ♭7 — natural minor minus the 2nd and ♭6th. Th",
+"keywords": [
+"scale",
+"library"
+],
+"kind": "page"
+},
+{
+"url": "reference/chords/",
+"title": "Chord library",
+"chapter_title": "Reference",
+"summary": "Every chord type with its formula and interactive diagram — triads, sevenths, extensions, suspended, and altered.",
+"body": "Home › Reference › Chord library Reference Chord library Every chord is just a stack of intervals over a root. Learn the formulas and you can build any chord on any note without a chart. Triads (three-note chords) Chord Symbol Formula Example (C root) Major C 1 3 5 C E G Minor Cm 1 ♭3 5 C E♭ G Diminished C° 1 ♭3 ♭5 C E♭ G♭ Augmented C+ 1 3 ♯5 C E G♯ Suspended 2 Csus2 1 2 5 C D G Suspended 4 Csus4 1 4 5 C F G C major triad A minor triad Seventh chords Chord Symbol Formula Example (C root) Major 7 Cmaj7 1 3 5 7 C E G B Dominant 7 C7 1 3 5 ♭7 C E G B♭ Minor 7 Cm7 1 ♭3 5 ♭7 C E♭ G B♭ Minor 7 ♭5 (half-dim) Cm7♭5 1 ♭3 ♭5 ♭7 C E♭ G♭ B♭ Diminished 7 C°7 1 ♭3 ♭5 ♭♭7 C E♭ G♭ B♭♭ (A) Minor-major 7 CmMaj7 1 ♭3 5 7 C E♭ G B Cmaj7 G7 (dominant) Am7 Extended chords (9, 11, 13) Stack thirds beyond the 7th to get the 9th, 11th, and 13th. These tones add color without changing the chord's basic function. Chord Symbol Formula Major 9 Cmaj9 1 3 5 7 9 Dominant 9 C9 1 3 5 ♭7 9 Minor 9 Cm9 1 ♭3 5 ♭7 9 Add 9 ",
+"keywords": [
+"chord",
+"library"
+],
+"kind": "page"
+},
+{
+"url": "reference/circle-of-fifths/",
+"title": "The circle of fifths",
+"chapter_title": "Reference",
+"summary": "All twelve major and minor keys arranged by perfect fifths, with sharps, flats, and relative minors at a glance.",
+"body": "Home › Reference › Circle of fifths Reference The circle of fifths Move clockwise: up a perfect 5th, add a sharp. Counter-clockwise: down a 5th, add a flat. Every key is connected to its neighbours by one note. C G D A E B F♯ / G♭ D♭ A♭ E♭ B♭ F Am Em Bm F♯m C♯m G♯m D♯m/E♭m B♭m Fm Cm Gm Dm Major / minor Key signatures at a glance Major key Relative minor Sharps / Flats Accidentals C Am 0 — G Em 1 ♯ F♯ D Bm 2 ♯ F♯ C♯ A F♯m 3 ♯ F♯ C♯ G♯ E C♯m 4 ♯ F♯ C♯ G♯ D♯ B G♯m 5 ♯ F♯ C♯ G♯ D♯ A♯ F♯ D♯m 6 ♯ F♯ C♯ G♯ D♯ A♯ E♯ F Dm 1 ♭ B♭ B♭ Gm 2 ♭ B♭ E♭ E♭ Cm 3 ♭ B♭ E♭ A♭ A♭ Fm 4 ♭ B♭ E♭ A♭ D♭ D♭ B♭m 5 ♭ B♭ E♭ A♭ D♭ G♭ G♭ E♭m 6 ♭ B♭ E♭ A♭ D♭ G♭ C♭ Why this matters Modulation: moving to a neighbouring key (one step around the circle) is the smoothest change because the keys share six of seven notes. Chord progressions: the V → I move is a counter-clockwise step on the circle. So is ii → V → I. Songwriting: picking three or four adjacent keys gives you a related set of chords for verses, choruses, and bri",
+"keywords": [
+"the",
+"circle",
+"fifths"
+],
+"kind": "page"
+},
+{
+"url": "reference/progressions/",
+"title": "Common chord progressions",
+"chapter_title": "Reference",
+"summary": "The chord progressions that power most popular music, with Roman-numeral analysis and worked examples in C and G.",
+"body": "Home › Reference › Common progressions Reference Common chord progressions Most of the songs you know live in this list. Roman numerals are key-agnostic — uppercase = major, lowercase = minor, ° = diminished. The harmonised major scale Every progression below uses chords drawn from this seven-chord set. Degree I ii iii IV V vi vii° Key of C C Dm Em F G Am B° Key of G G Am Bm C D Em F♯° Key of D D Em F♯m G A Bm C♯° Pop & rock workhorses I — V — vi — IV The \"axis\" or \"pop\" progression. C – G – Am – F · G – D – Em – C Used in: Don't Stop Believin', Let It Be, With or Without You, hundreds more. vi — IV — I — V A \"sad\" reordering of the same four chords. Am – F – C – G · Em – C – G – D Used in: Apologize, Numb, Grenade. I — vi — IV — V (the 50s) Doo-wop. C – Am – F – G · G – Em – C – D Used in: Stand By Me, Every Breath You Take, classic doo-wop. I — IV — V (the blues / rock root) Three-chord rock and country. C – F – G · G – C – D Used in: countless folk, blues, country songs. The skeleto",
+"keywords": [
+"common",
+"chord",
+"progressions"
+],
+"kind": "page"
+},
+{
+"url": "reference/glossary/",
+"title": "Plain-English Music Theory Glossary",
+"chapter_title": "Reference",
+"summary": "Simple definitions of common guitar music theory words for zero-knowledge beginners.",
+"body": "Home › Reference › Glossary Reference Plain-English glossary Short definitions for the words that usually make music theory feel harder than it is. Read these like translations, not like dictionary entries. Note A single musical sound, like C or F♯. On guitar, every fret on every string is a note. Pitch How high or low a note sounds. The same note name can appear in many pitches, like low E and high E. Half-step The smallest common move in Western music. On guitar, one half-step equals one fret. Whole-step Two half-steps. On guitar, one whole-step equals two frets. Root The main note a scale or chord is named after. In C major, C is the root. In A minor, A is the root. Interval The distance between two notes. A riff, melody, chord, or scale is built from intervals. Scale A chosen set of notes arranged from low to high. A scale gives you the raw notes for melodies, riffs, and solos. Scale degree A number for a note inside a scale. In C major, C is 1, D is 2, E is 3, and so on. Chord Thr",
+"keywords": [
+"plain",
+"english",
+"music",
+"theory",
+"glossary"
+],
+"kind": "page"
+},
+{
+"url": "about/",
+"title": "About Fretwise",
+"chapter_title": "",
+"summary": "What Fretwise is, who it's for, how to use it, and the philosophy behind the curriculum.",
+"body": "Home › About About About Fretwise A free, complete, beginner-to-advanced guitar music theory tutorial — built for guitarists who want to understand what they're playing, not just memorise it. Who this is for The total beginner who's never read theory and isn't sure where to start. Work through the chapters in order. The self-taught player stuck looping the same minor-pentatonic box. The intervals and modes chapters are written for you. The returning player who once knew theory and wants a fast, structured refresher. Use the sidebar to jump to what you've forgotten. The songwriter who can hum a melody but can't get it into chord changes. Chapters 8–13 are the answer. How it's structured Fretwise is organised like a textbook, not a playlist. There are fifteen chapters, each with several short lessons. Every lesson is one idea — small enough to read on a phone, deep enough to actually teach something. Chapters 1–4 are the foundation: notes, fretboard, intervals, rhythm. Don't skip these e",
+"keywords": [
+"about",
+"fretwise"
+],
+"kind": "page"
+},
+{
+"url": "chapters/",
+"title": "All chapters",
+"chapter_title": "",
+"summary": "The complete Fretwise curriculum — fifteen chapters from your first scale to writing full songs and solos.",
+"body": "Home › Chapters Curriculum All chapters The complete Fretwise curriculum, in order. Each chapter is several short lessons — the whole thing is designed to be read linearly, but jump in anywhere. 1 Getting Started What music theory actually is, why guitarists need it, and the absolute essentials — notes, the alphabet, half- and whole-steps — that everything else builds on. 2 Fretboard Mastery Learn every note on every string without rote memorisation — using octaves, anchor notes, and the shapes you already know. 3 Intervals — The Building Blocks Distances between notes are the atoms of music. Learn how to name, hear, and play every interval — and why this single skill unlocks scales, chords, and melody. 4 Rhythm, Time, and Feel Pitch is half of music; rhythm is the other half. Learn time signatures, subdivisions, syncopation, swing, and how rhythm gives your playing its character. 5 Major and Minor Scales The two scales that shape almost all Western music. Learn the formula, the shapes",
+"keywords": [
+"all",
+"chapters"
+],
+"kind": "page"
+},
+{
+"url": "start-here/",
+"title": "Start Here — Zero Knowledge Beginner Mode",
+"chapter_title": "",
+"summary": "A plain-language learning path for guitarists who have no prior music theory knowledge and want to progress to advanced songwriting, soloing, and composition.",
+"body": "Zero knowledge beginner mode Start here if music theory feels confusing. You do not need to know notes, scales, chords, keys, rhythm names, or reading music before starting. This page gives you the safest route through the site: first understand the guitar neck, then scales, then chords, then progressions, then solos, then full songs. Begin lesson 1 → Open glossary The promise If a lesson uses a theory word, you should be able to answer: what does this word mean, where is it on the guitar, what does it sound like, and how can I use it in a riff, chord progression, melody, solo, or song? The zero-to-advanced route Follow these levels in order if you are starting from nothing. Do not rush. You are ready to move on when you can explain the checkpoint in your own words and play the exercise without guessing. Level 0 Understand what theory is for Goal: stop seeing theory as rules and start seeing it as names for sounds. What music theory is and is not The musical alphabet and half-steps Che",
+"keywords": [
+"start",
+"here",
+"zero",
+"knowledge",
+"beginner",
+"mode"
+],
+"kind": "page"
+}
+]
